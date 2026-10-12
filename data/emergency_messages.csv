@@ -1,0 +1,1201 @@
+id,message_en,language,disaster_type,severity,location,person
+1,"Strong earthquake felt in Pune, buildings shaking, people running outside someone call for help",en,Earthquake,Low,Pune,
+2,"Major road accident near Chennai, 3 vehicles involved, people injured",ta,Road Accident,High,Chennai,
+3,"Under-construction building collapsed in Nagpur, workers trapped since on Monday neighbours are also affected",en,Building Collapse,Critical,Nagpur,
+4,"Major road accident near Bangalore, 8 vehicles involved, people injured",hi,Road Accident,High,Bangalore,
+5,Pregnant woman in Pune needs urgent hospital transport right now not sure what to do,ta,Medical Emergency,High,Pune,
+6,"Under-construction building collapsed in Delhi, workers trapped since last night not sure what to do",hi,Building Collapse,Critical,Delhi,
+7,"Cyclone damaged roofs in Trichy, power lines down, 10 families affected neighbours are also affected",en,Cyclone,Medium,Trichy,
+8,"Snake bite emergency in Coimbatore, John needs antivenom immediately situation getting worse",ta,Medical Emergency,High,Coimbatore,John
+9,"Landslide hit hillside village near Madurai, 6 houses buried under mud neighbours are also affected",en,Landslide,Critical,Madurai,
+10,"Heavy flooding in Delhi, water level rising fast, 4 people trapped",fr,Flood,Critical,Delhi,
+11,"Heavy flooding in Hyderabad, water level rising fast, 6 people trapped not sure what to do",fr,Flood,Critical,Hyderabad,
+12,"Landslide hit hillside village near Salem, 3 houses buried under mud someone call for help",fr,Landslide,Critical,Salem,
+13,"River overflowing near Trichy, roads submerged, need boat rescue urgently not sure what to do",en,Flood,High,Trichy,
+14,"Building collapsed in Nagpur, 4 people feared trapped under rubble someone call for help",en,Building Collapse,Critical,Nagpur,
+15,"heavy wind and rain in kolkata due to cyclone, evacuation needed urgently please respond fast",hi,Cyclone,Medium,,
+16,"heavy flooding in pune, water level rising fast, 2 people trapped",hi,Flood,Critical,,
+17,"cyclone damaged roofs in pune, power lines down, 12 families affected",ta,Cyclone,Medium,,
+18,"Building collapsed in Hyderabad, 3 people feared trapped under rubble neighbours are also affected",ta,Building Collapse,Critical,Hyderabad,
+19,"Fire in apartment building Delhi, smoke everywhere, need evacuation help please respond fast",en,Fire,High,Delhi,
+20,"Heavy flooding in Thanjavur, water level rising fast, 5 people trapped",en,Flood,Critical,Thanjavur,
+21,"Severe waterlogging in Coimbatore after continuous rain, help needed for elderly",hi,Flood,Medium,Coimbatore,
+22,"river overflowing near chennai, roads submerged, need boat rescue urgently",hi,Flood,High,,
+23,"Cyclone warning issued for Mumbai, coastal residents need shelter immediately",en,Cyclone,High,Mumbai,
+24,Pregnant woman in Coimbatore needs urgent hospital transport right now,ta,Medical Emergency,High,Coimbatore,
+25,"Strong earthquake felt in Salem, buildings shaking, people running outside someone call for help",ta,Earthquake,Low,Salem,
+26,"Fire in apartment building Vellore, smoke everywhere, need evacuation help not sure what to do",en,Fire,High,Vellore,
+27,"Earthquake damaged several homes in Coimbatore, 6 injured, need medical help situation getting worse",en,Earthquake,High,Coimbatore,
+28,"Heavy flooding in Hyderabad, water level rising fast, 10 people trapped",en,Flood,Critical,Hyderabad,
+29,"Wall of building fell in Salem, Anjali injured, ambulance required someone call for help",en,Building Collapse,High,Salem,Anjali
+30,"Massive fire broke out in Coimbatore market, thick smoke, 8 shops affected situation getting worse",hi,Fire,High,Coimbatore,
+31,"Bus accident on Thanjavur highway, passengers trapped, need rescue",hi,Road Accident,Critical,Thanjavur,
+32,"Heavy wind and rain in Delhi due to cyclone, evacuation needed urgently",en,Cyclone,High,Delhi,
+33,"Cyclone damaged roofs in Chennai, power lines down, 5 families affected not sure what to do",hi,Cyclone,Medium,Chennai,
+34,"Carlos met with a bike accident near Chennai, bleeding not sure what to do",en,Road Accident,Low,Chennai,Carlos
+35,"Earthquake caused wall collapse in Thanjavur, person named trapped under debris",es,Earthquake,Critical,Thanjavur,
+36,"Heavy wind and rain in Kolkata due to cyclone, evacuation needed urgently please respond fast",ta,Cyclone,High,Kolkata,
+37,"John met with a bike accident near Salem, bleeding heavily",en,Road Accident,Low,Salem,John
+38,"River overflowing near Coimbatore, roads submerged, need boat rescue urgently",es,Flood,High,Coimbatore,
+39,"Massive fire broke out in Coimbatore market, thick smoke, 8 shops affected not sure what to do",fr,Fire,Medium,Coimbatore,
+40,"Earthquake caused wall collapse in Kolkata, person named Arjun trapped under debris",es,Earthquake,Low,Kolkata,Arjun
+41,"Cyclone damaged roofs in Nagpur, power lines down, 12 families affected please respond fast",fr,Cyclone,Medium,Nagpur,
+42,"Snake bite emergency in Kochi, Elena needs antivenom immediately someone call for help",en,Medical Emergency,High,Kochi,Elena
+43,"Landslide damaged bridge connecting Hyderabad, rescue team needed urgently please respond fast",fr,Landslide,High,Hyderabad,
+44,"Earthquake damaged several homes in Delhi, injured, need medical help situation getting worse",en,Earthquake,High,Delhi,
+45,"Truck overturned near Thanjavur, driver Arjun trapped in cabin",fr,Road Accident,Critical,Thanjavur,Arjun
+46,"Bus accident on Trichy highway, passengers trapped, need rescue",es,Road Accident,Critical,Trichy,
+47,"Old structure collapsed near Kochi market, rescue operation needed please respond fast",en,Building Collapse,Critical,Kochi,
+48,"Pierre met with a bike accident near Madurai, bleeding heavily",es,Road Accident,Low,Madurai,Pierre
+49,"Building collapsed in Pune, 2 people feared trapped under rubble please respond fast",fr,Building Collapse,Critical,Pune,
+50,"Cyclone approaching Kochi coast, strong winds, trees falling since this morning",hi,Cyclone,Low,Kochi,
+51,Pregnant woman in Kochi needs urgent hospital transport right now please respond fast,fr,Medical Emergency,High,Kochi,
+52,"Truck overturned near Pune, driver Kumar trapped in cabin please respond fast",es,Road Accident,Critical,Pune,Kumar
+53,"River overflowing near Salem, roads submerged, boat rescue urgently neighbours are also affected",fr,Flood,High,Salem,
+54,"Old structure collapsed near Kolkata market, rescue operation needed",en,Building Collapse,Critical,Kolkata,
+55,"Cyclone approaching Coimbatore coast, strong winds, trees falling since on Friday",ta,Cyclone,Low,Coimbatore,
+56,"Carlos collapsed near Bangalore, unconscious, please send medical help fast situation worse",en,Medical Emergency,Critical,Bangalore,Carlos
+57,"Wall of building fell in Trichy, Kumar injured, ambulance required situation getting worse",ta,Building Collapse,High,Trichy,Kumar
+58,"Snake bite emergency in Pune, Fatima needs antivenom immediately not sure what to do",en,Medical Emergency,High,Pune,Fatima
+59,"House fire in Madurai, Carlos and family trapped inside, send fire truck please respond fast",en,Fire,Critical,Madurai,Carlos
+60,"Forest fire spreading near Chennai, please send fire brigade immediately someone call for help",en,Fire,High,Chennai,
+61,"Landslide damaged bridge connecting Trichy, rescue team needed urgently",en,Landslide,High,Trichy,
+62,Building collapsed in 2 people feared trapped under rubble not sure what to do,hi,Building Collapse,Critical,,
+63,"cyclone warning issued for trichy, coastal residents need shelter immediately not sure what to do",en,Cyclone,High,,
+64,"Cyclone damaged roofs in Coimbatore, power lines down, 3 families affected someone call for help",hi,Cyclone,Medium,Coimbatore,
+65,"Under-construction building collapsed Chennai, workers trapped since 2 hours ago",hi,Building Collapse,Critical,Chennai,
+66,"Cyclone warning for Mumbai, coastal residents need shelter immediately someone call for help",es,Cyclone,High,Mumbai,
+67,"Landslide damaged bridge connecting Mumbai, rescue team needed urgently not sure what to do",en,Landslide,High,Mumbai,
+68,"Ravi met with a bike accident near Kochi, bleeding heavily situation getting worse",fr,Road Accident,Low,Kochi,Ravi
+69,"Landslide blocked the main road near Nagpur, several vehicles stuck not sure what to do",ta,Landslide,Low,Nagpur,
+70,"Earthquake caused wall collapse in Bangalore, person named Pierre trapped under debris please respond fast",en,Earthquake,Critical,Bangalore,Pierre
+71,"Major road accident near Trichy, 3 vehicles involved, people injured neighbours are affected",fr,Road Accident,High,Trichy,
+72,"Wall of building fell in Chennai, David injured, ambulance required",hi,Building Collapse,High,Chennai,David
+73,"Landslide damaged bridge connecting Thanjavur, rescue team needed urgently situation getting worse",en,Landslide,Critical,Thanjavur,
+74,"Earthquake caused wall collapse in Mumbai, person named Lakshmi trapped under debris not sure what to do",ta,Earthquake,Critical,Mumbai,Lakshmi
+75,"Fire in apartment building Madurai, smoke everywhere, need evacuation help",en,Fire,High,Madurai,
+76,"Landslide damaged bridge connecting Vellore, rescue team needed urgently neighbours are also affected",fr,Landslide,High,Vellore,
+77,"Cyclone damaged roofs in Kochi, power lines down, 10 families affected",ta,Cyclone,Medium,Kochi,
+78,"Fire in apartment building Chennai, smoke everywhere, need evacuation help please respond fast",ta,Fire,High,Chennai,
+79,"Fire in apartment building Vellore, smoke everywhere, need evacuation help not sure what to do",es,Fire,High,Vellore,
+80,"Elena met with a bike accident near Hyderabad, bleeding heavily please respond fast",en,Road Accident,Low,Hyderabad,Elena
+81,"earthquake caused wall collapse in mumbai, person named rahul trapped under debris not sure what to do",en,Earthquake,Critical,,
+82,"snake bite emergency in delhi, david needs antivenom immediately someone call for help",hi,Medical Emergency,High,,
+83,"Cyclone warning issued for Thanjavur, coastal residents need shelter immediately not sure what to do",ta,Cyclone,High,Thanjavur,
+84,"Landslide hit hillside village near Mumbai, 12 houses buried under mud",fr,Landslide,Critical,Mumbai,
+85,"Building collapsed in Madurai, 10 people feared trapped under rubble not sure what do",hi,Building Collapse,Critical,Madurai,
+86,"Severe waterlogging in Vellore after continuous rain, help needed for elderly situation getting worse",es,Flood,Medium,Vellore,
+87,"Massive fire broke out in Thanjavur market, thick smoke, 2 shops affected",en,Fire,High,Thanjavur,
+88,"Bus accident on Madurai highway, several passengers trapped, need rescue not sure what to do",ta,Road Accident,Critical,Madurai,
+89,"Continuous rain triggered landslide in Nagpur, Rahul missing since yesterday someone call for help",hi,Landslide,Critical,Nagpur,Rahul
+90,"Ravi met with a bike accident near Mumbai, bleeding heavily please respond fast",hi,Road Accident,Low,Mumbai,Ravi
+91,"Lakshmi in Hyderabad is having severe chest pain, need ambulance immediately neighbours are also affected",es,Medical Emergency,High,Hyderabad,Lakshmi
+92,"Landslide damaged bridge connecting Mumbai, rescue team needed urgently not sure what to do",ta,Landslide,High,Mumbai,
+93,"Truck overturned near Bangalore, driver Suresh trapped in cabin please respond fast",en,Road Accident,Critical,Bangalore,Suresh
+94,Pregnant woman in Trichy needs urgent hospital transport right now please respond fast,hi,Medical Emergency,High,Trichy,
+95,"Severe waterlogging in Coimbatore after continuous rain, help needed for elderly please respond fast",en,Flood,Medium,Coimbatore,
+96,Pregnant woman in Delhi needs urgent hospital transport right now situation getting worse,es,Medical Emergency,High,Delhi,
+97,"river overflowing near vellore, roads submerged, need boat rescue urgently someone call for",hi,Flood,Medium,,
+98,"Flood water entered houses in Coimbatore, families stuck on rooftops since on Monday please respond fast",ta,Flood,Low,Coimbatore,
+99,"earthquake caused wall collapse in salem, person named priya trapped under debris",es,Earthquake,Critical,,
+100,"major road accident near trichy, 12 vehicles involved, people injured neighbours are also affected",hi,Road Accident,High,,
+101,"Snake bite emergency in Kochi, Rahul needs antivenom immediately please respond fast",fr,Medical Emergency,High,Kochi,Rahul
+102,"Cyclone warning issued for Trichy, coastal residents need shelter immediately",en,Cyclone,High,Trichy,
+103,"Continuous triggered landslide in Delhi, Kumar missing since yesterday please respond fast",en,Landslide,Critical,Delhi,Kumar
+104,"River overflowing near Hyderabad, roads submerged, need boat rescue urgently",hi,Flood,High,Hyderabad,
+105,"Suresh in Kochi is having severe chest pain, need ambulance immediately situation getting worse",en,Medical Emergency,High,Kochi,Suresh
+106,"Landslide hit hillside village near Nagpur, 10 houses under mud not sure what to do",en,Landslide,Critical,Nagpur,
+107,"Flood water entered houses in Vellore, families stuck on rooftops since yesterday someone call for help",ta,Flood,Low,Vellore,
+108,"Truck overturned near Trichy, driver Meena trapped in cabin not sure what to do",en,Road Accident,Critical,Trichy,Meena
+109,"Flood water entered houses in Delhi, families stuck on rooftops since 2 hours ago",en,Flood,Low,Delhi,
+110,"Aftershocks continuing in Kolkata since on Friday, residents scared to go inside sure what to do",en,Earthquake,Low,Kolkata,
+111,"Cyclone damaged roofs in Nagpur, power lines down, 6 families affected respond fast",ta,Cyclone,Medium,Nagpur,
+112,"heavy wind and rain in mumbai due to cyclone, evacuation needed urgently",ta,Cyclone,High,,
+113,"Truck overturned near Coimbatore, driver Arjun trapped in cabin neighbours are also affected",hi,Road Accident,Critical,Coimbatore,Arjun
+114,"Maria in Kolkata is having severe chest pain, need ambulance immediately",en,Medical Emergency,High,Kolkata,Maria
+115,Pregnant woman in Mumbai needs urgent hospital transport right now neighbours are also affected,en,Medical Emergency,High,Mumbai,
+116,"Earthquake damaged several homes in Coimbatore, 5 injured, need medical help please respond fast",es,Earthquake,High,Coimbatore,
+117,"Under-construction building collapsed in Vellore, workers trapped since on Friday please respond fast",hi,Building Collapse,Critical,Vellore,
+118,"Rahul in Coimbatore is having severe chest pain, need ambulance immediately",fr,Medical Emergency,High,Coimbatore,Rahul
+119,"Earthquake caused wall collapse in Trichy, person named Rahul trapped under debris neighbours are also affected",ta,Earthquake,Critical,Trichy,Rahul
+120,"Priya in Salem is having severe chest pain, need ambulance immediately",ta,Medical Emergency,High,Salem,Priya
+121,"Landslide damaged bridge connecting Kolkata, rescue team needed urgently please respond fast",en,Landslide,High,Kolkata,
+122,"Forest spreading near Mumbai, please send fire brigade immediately",es,Fire,High,Mumbai,
+123,"Massive fire broke out in Hyderabad market, thick smoke, 10 shops affected",fr,Fire,High,Hyderabad,
+124,"Old structure collapsed near Madurai market, rescue operation needed not sure what to do",es,Building Collapse,Critical,Madurai,
+125,"River overflowing near Thanjavur, roads submerged, need boat rescue urgently someone call for help",fr,Flood,High,Thanjavur,
+126,"Building collapsed in Kolkata, 8 people feared trapped under rubble not sure what to do",en,Building Collapse,Critical,Kolkata,
+127,"Old structure collapsed near Bangalore market, rescue operation needed",en,Building Collapse,Critical,Bangalore,
+128,"Forest fire spreading near Chennai, please send fire brigade immediately please respond fast",fr,Fire,High,Chennai,
+129,"Fire in apartment building Mumbai, smoke everywhere, need evacuation help",ta,Fire,High,Mumbai,
+130,"Aftershocks continuing in Madurai since yesterday, residents scared to go inside neighbours are also affected",es,Earthquake,Low,Madurai,
+131,"Fire in apartment building Trichy, smoke everywhere, need evacuation help not sure what to do",hi,Fire,High,Trichy,
+132,"Major road accident near Nagpur, 6 involved, people injured please respond fast",en,Road Accident,High,Nagpur,
+133,"Building collapsed in Hyderabad, 5 feared trapped under rubble",hi,Building Collapse,Critical,Hyderabad,
+134,"Aftershocks continuing in Mumbai since on Friday, residents scared to go inside",en,Earthquake,Low,Mumbai,
+135,"Aftershocks continuing in Madurai since this morning, residents scared to go inside",es,Earthquake,Low,Madurai,
+136,"wall of building in hyderabad, suresh injured, ambulance required",en,Building Collapse,High,,
+137,"Landslide damaged bridge connecting Vellore, rescue team needed urgently situation getting worse",hi,Landslide,High,Vellore,
+138,"Landslide blocked the main road near Nagpur, several vehicles stuck",ta,Landslide,Low,Nagpur,
+139,"Under-construction building collapsed in Thanjavur, workers trapped since on Monday please respond fast",en,Building Collapse,Critical,Thanjavur,
+140,"Strong earthquake felt in Bangalore, buildings shaking, people running outside",es,Earthquake,Low,Bangalore,
+141,"Snake bite emergency in Coimbatore, Kumar needs antivenom immediately neighbours are also affected",en,Medical Emergency,High,Coimbatore,Kumar
+142,"Building collapsed in Delhi, 3 people feared trapped under rubble neighbours are also affected",hi,Building Collapse,Critical,Delhi,
+143,"Suresh collapsed near Trichy, unconscious, please send medical help fast",en,Medical Emergency,Critical,Trichy,Suresh
+144,"Fire in apartment building Salem, smoke everywhere, need evacuation help not sure what to do",hi,Fire,High,Salem,
+145,"Old structure collapsed near Mumbai market, rescue operation needed someone call for help",hi,Building Collapse,Critical,Mumbai,
+146,"Elena collapsed near Pune, unconscious, please send medical help fast not sure what to do",hi,Medical Emergency,Critical,Pune,Elena
+147,Pregnant woman in Mumbai needs urgent hospital transport now,fr,Medical Emergency,High,Mumbai,
+148,"Massive fire broke out in Mumbai market, thick smoke, 6 shops affected",fr,Fire,High,Mumbai,
+149,"Earthquake caused wall collapse in Trichy, person named Suresh trapped under debris someone call for help",en,Earthquake,Critical,Trichy,Suresh
+150,"Forest fire spreading near Delhi, please send fire brigade immediately neighbours are also affected",en,Fire,High,Delhi,
+151,"Heavy wind and rain in Delhi due to cyclone, evacuation needed urgently someone call for help",hi,Cyclone,High,Delhi,
+152,"Kumar in Vellore is having severe chest pain, need ambulance immediately not sure what to do",hi,Medical Emergency,High,Vellore,Kumar
+153,"under-construction building collapsed in hyderabad, workers trapped since last night",ta,Building Collapse,Critical,,
+154,"Wall of building fell in Madurai, Suresh injured, ambulance required neighbours are also affected",en,Building Collapse,High,Madurai,Suresh
+155,"Rahul in Bangalore is having severe chest pain, need ambulance immediately not sure what to do",fr,Medical Emergency,High,Bangalore,Rahul
+156,"Bus accident on Vellore highway, several passengers trapped, need rescue situation getting worse",ta,Road Accident,Critical,Vellore,
+157,"Landslide damaged bridge connecting Chennai, rescue team needed urgently situation getting worse",ta,Landslide,High,Chennai,
+158,"Under-construction building collapsed in Salem, workers trapped since on Monday someone call for help",ta,Building Collapse,Critical,Salem,
+159,"Major road accident near Kochi, 5 vehicles involved, people injured please respond fast",es,Road Accident,High,Kochi,
+160,"Earthquake damaged several homes in Mumbai, 10 injured, need medical help neighbours are also affected",ta,Earthquake,High,Mumbai,
+161,"Heavy flooding in Delhi, water level rising fast, 8 people trapped someone call for help",hi,Flood,Critical,Delhi,
+162,"fire in apartment building kochi, smoke everywhere, need evacuation help not sure what to do",en,Fire,High,,
+163,"Lakshmi met with a bike accident near Nagpur, bleeding heavily situation getting worse",hi,Road Accident,Low,Nagpur,Lakshmi
+164,"Bus accident on Vellore highway, passengers trapped, need rescue situation getting worse",en,Road Accident,Critical,Vellore,
+165,"Building collapsed in Pune, 4 people feared trapped under rubble neighbours are also affected",fr,Building Collapse,Critical,Pune,
+166,"Under-construction building collapsed in Salem, workers trapped since on Friday situation getting worse",fr,Building Collapse,Critical,Salem,
+167,"Continuous rain triggered landslide in Pune, Lakshmi missing since 30 minutes ago",en,Landslide,Critical,Pune,Lakshmi
+168,"Earthquake caused collapse in Thanjavur, person named Fatima trapped under debris not sure what to do",en,Earthquake,Critical,Thanjavur,Fatima
+169,"Old structure collapsed near Madurai market, rescue operation needed someone call help",hi,Building Collapse,Critical,Madurai,
+170,"cyclone damaged in chennai, power lines down, 3 families affected",fr,Cyclone,Medium,,
+171,"Truck overturned near Trichy, driver Sophie trapped in cabin not sure what to do",hi,Road Accident,Critical,Trichy,Sophie
+172,"Flood water entered houses in Kolkata, families stuck on rooftops since on Monday",en,Flood,Low,Kolkata,
+173,"Heavy flooding in Coimbatore, water level rising fast, 3 people trapped",fr,Flood,Critical,Coimbatore,
+174,"Under-construction building collapsed in Madurai, workers trapped since this morning",es,Building Collapse,High,Madurai,
+175,"cyclone damaged roofs in kochi, power lines down, 10 families affected please respond fast",ta,Cyclone,Medium,,
+176,"Cyclone approaching Coimbatore coast, strong winds, trees falling since on Friday not sure what to do",en,Cyclone,Low,Coimbatore,
+177,Pregnant woman in Chennai needs urgent hospital transport right now someone call for help,hi,Medical Emergency,High,Chennai,
+178,"Landslide blocked the main road near Hyderabad, several vehicles stuck situation getting worse",fr,Landslide,Low,Hyderabad,
+179,"Snake bite emergency in Pune, Elena needs antivenom immediately situation getting worse",ta,Medical Emergency,High,Pune,Elena
+180,"Priya in Thanjavur is having severe chest pain, need ambulance immediately someone call for help",hi,Medical Emergency,High,Thanjavur,Priya
+181,"Building collapsed in Thanjavur, 12 people feared trapped under rubble someone call for help",ta,Building Collapse,Critical,Thanjavur,
+182,"Landslide blocked the main road Kolkata, several vehicles stuck please respond fast",en,Landslide,Low,Kolkata,
+183,"Earthquake caused wall collapse in Chennai, person named Divya trapped under debris someone call for help",ta,Earthquake,Critical,Chennai,Divya
+184,"Truck overturned near Vellore, driver Arjun trapped in cabin someone call for help",ta,Road Accident,Critical,Vellore,Arjun
+185,"House fire in Vellore, Ravi and family trapped inside, send fire truck",es,Fire,Critical,Vellore,Ravi
+186,"Cyclone warning issued for Bangalore, coastal residents need shelter immediately respond fast",fr,Cyclone,High,Bangalore,
+187,"Flood water entered houses in Madurai, families stuck on rooftops since today",es,Flood,Low,Madurai,
+188,"Truck overturned near Madurai, driver Priya trapped in cabin not sure what to do",hi,Road Accident,Critical,Madurai,Priya
+189,pregnant woman in coimbatore needs urgent hospital transport right now,fr,Medical Emergency,High,,
+190,"Fire in apartment building Salem, smoke everywhere, need evacuation help",en,Fire,High,Salem,
+191,"Bus accident on Nagpur highway, several passengers trapped, need rescue not sure what to do",en,Road Accident,Critical,Nagpur,
+192,"Truck overturned near Salem, driver Arjun trapped in cabin not sure what to do",es,Road Accident,Critical,Salem,Arjun
+193,"Earthquake damaged several homes in Chennai, 6 injured, need medical help please respond fast",hi,Earthquake,High,Chennai,
+194,"Old structure collapsed near Vellore market, rescue operation needed situation getting worse",fr,Building Collapse,Critical,Vellore,
+195,"Old structure collapsed near Pune market, rescue operation needed neighbours are also affected",en,Building Collapse,Critical,Pune,
+196,"Continuous rain triggered landslide in Salem, Rahul missing since yesterday",en,Landslide,Critical,Salem,Rahul
+197,"Flood water entered houses in Pune, families stuck on rooftops since 2 hours ago",hi,Flood,Low,Pune,
+198,"Cyclone warning issued for Salem, coastal residents need shelter immediately",en,Cyclone,High,Salem,
+199,"Old structure collapsed near Thanjavur market, rescue operation needed please respond fast",ta,Building Collapse,Critical,Thanjavur,
+200,"Cyclone approaching Pune coast, strong winds, trees falling since last night",hi,Cyclone,Low,Pune,
+201,"Wall of building fell Chennai, Elena injured, ambulance required",ta,Building Collapse,High,Chennai,Elena
+202,"Bus accident on Mumbai highway, several passengers trapped, need rescue situation getting worse",en,Road Accident,Critical,Mumbai,
+203,"Major road accident near Bangalore, 10 vehicles involved, people injured situation getting worse",fr,Road Accident,High,Bangalore,
+204,"Heavy flooding in Kolkata, water level rising fast, 10 people trapped",es,Flood,Critical,Kolkata,
+205,"Maria in Thanjavur is having severe chest pain, need ambulance immediately",en,Medical Emergency,High,Thanjavur,Maria
+206,"Flood water entered houses in Thanjavur, families stuck on rooftops since last night someone call for help",en,Flood,Low,Thanjavur,
+207,"House fire in Kochi, Elena and family trapped inside, send fire truck",es,Fire,Critical,Kochi,Elena
+208,"Maria in Mumbai is having severe chest pain, need ambulance immediately neighbours are also affected",fr,Medical Emergency,High,Mumbai,Maria
+209,"Rahul in Hyderabad is having severe chest pain, need ambulance immediately situation getting worse",hi,Medical Emergency,High,Hyderabad,Rahul
+210,"Major road accident near Nagpur, 6 vehicles involved, people injured please respond fast",en,Road Accident,High,Nagpur,
+211,"Kumar met with a bike accident near Bangalore, bleeding heavily not sure what to do",en,Road Accident,Low,Bangalore,Kumar
+212,"truck overturned near salem, driver anjali trapped in cabin please respond fast",en,Road Accident,Critical,,
+213,"Major road accident near Coimbatore, 10 vehicles involved, people injured situation getting worse",en,Road Accident,High,Coimbatore,
+214,"Continuous rain triggered landslide in Trichy, Kumar missing since this morning",ta,Landslide,Critical,Trichy,Kumar
+215,"Cyclone warning issued for Kochi, coastal residents need shelter immediately someone call for help",hi,Cyclone,High,Kochi,
+216,"Snake bite emergency in Bangalore, Suresh needs antivenom immediately neighbours are also affected",en,Medical Emergency,High,Bangalore,Suresh
+217,"Maria met with a bike accident near Coimbatore, bleeding heavily",fr,Road Accident,Low,Coimbatore,Maria
+218,"Cyclone damaged roofs in Hyderabad, power lines down, 2 families affected",es,Cyclone,Medium,Hyderabad,
+219,"Truck overturned near Delhi, driver Maria trapped in cabin someone call for help",fr,Road Accident,Critical,Delhi,Maria
+220,"Wall of building fell in Salem, Elena injured, ambulance required neighbours are also affected",fr,Building Collapse,High,Salem,Elena
+221,"Earthquake damaged several homes in Hyderabad, 8 injured, need medical help",en,Earthquake,High,Hyderabad,
+222,"Aftershocks continuing in Madurai since 30 minutes ago, residents scared to go inside",en,Earthquake,Low,Madurai,
+223,"Severe waterlogging in Mumbai after continuous rain, help needed for elderly please respond fast",en,Flood,Medium,Mumbai,
+224,"Cyclone warning issued for Bangalore, coastal residents need shelter immediately",en,Cyclone,High,Bangalore,
+225,"Maria in Hyderabad is having severe chest pain, need ambulance immediately someone call for help",es,Medical Emergency,High,Hyderabad,Maria
+226,"House fire in Hyderabad, Arjun and family trapped inside, send fire truck situation getting worse",en,Fire,Medium,Hyderabad,Arjun
+227,"Strong earthquake felt in Nagpur, buildings shaking, people running outside situation getting worse",ta,Earthquake,Low,Nagpur,
+228,"Snake bite emergency in Kochi, Anjali needs antivenom immediately neighbours are also affected",hi,Medical Emergency,High,Kochi,Anjali
+229,"Landslide blocked the main road near Hyderabad, several vehicles stuck situation getting worse",ta,Landslide,Low,Hyderabad,
+230,"Bus accident on Kochi highway, several passengers trapped, need rescue",fr,Road Accident,Critical,Kochi,
+231,"Fire in apartment building Coimbatore, smoke everywhere, need evacuation help",ta,Fire,High,Coimbatore,
+232,"Cyclone warning issued for Salem, coastal residents need shelter immediately",hi,Cyclone,High,Salem,
+233,"Heavy wind and rain in Chennai due to cyclone, evacuation needed urgently someone call for help",ta,Cyclone,High,Chennai,
+234,"Strong earthquake felt in Coimbatore, buildings shaking, people running outside",es,Earthquake,Low,Coimbatore,
+235,"heavy wind and rain in vellore due to cyclone, evacuation needed urgently neighbours are also affected",en,Cyclone,High,,
+236,"Cyclone damaged roofs in Nagpur, power lines down, 8 families affected someone call for help",hi,Cyclone,Medium,Nagpur,
+237,"Landslide hit hillside village near Bangalore, 6 houses buried under mud please fast",fr,Landslide,Critical,Bangalore,
+238,"House fire in Madurai, Pierre and family trapped inside, send fire truck",ta,Fire,Critical,Madurai,Pierre
+239,"Building collapsed in Hyderabad, 3 people feared trapped under rubble neighbours are also affected",fr,Building Collapse,Critical,Hyderabad,
+240,"Earthquake caused wall collapse in Hyderabad, person named Kumar trapped under debris situation getting worse",en,Earthquake,Critical,Hyderabad,Kumar
+241,"Continuous rain triggered landslide in Salem, Lakshmi missing since 30 ago",en,Landslide,Critical,Salem,Lakshmi
+242,"Fire in apartment building Trichy, smoke everywhere, need evacuation help someone call for help",fr,Fire,High,Trichy,
+243,"Aftershocks continuing in Coimbatore since this morning, residents scared to go inside",en,Earthquake,Low,Coimbatore,
+244,"Strong earthquake felt in Chennai, buildings shaking, people running outside someone call for help",en,Earthquake,Low,Chennai,
+245,"suresh in vellore is having severe chest pain, need ambulance immediately please respond fast",en,Medical Emergency,High,,
+246,"suresh collapsed near delhi, unconscious, please send medical help fast please respond fast",ta,Medical Emergency,Critical,,
+247,"Cyclone damaged roofs in Thanjavur, power lines down, 10 families affected please respond fast",es,Cyclone,Medium,Thanjavur,
+248,"Snake bite emergency in Bangalore, Maria needs antivenom immediately please respond fast",en,Medical Emergency,High,Bangalore,Maria
+249,"River overflowing near Madurai, roads submerged, need boat rescue urgently",ta,Flood,High,Madurai,
+250,"Cyclone warning issued for Hyderabad, coastal residents need shelter immediately neighbours are also affected",hi,Cyclone,High,Hyderabad,
+251,pregnant woman in needs urgent hospital transport right now please respond fast,es,Medical Emergency,High,,
+252,"Landslide bridge connecting Kolkata, rescue team needed urgently not sure what to do",es,Landslide,High,Kolkata,
+253,"Snake emergency in Kochi, Sophie needs antivenom immediately situation getting worse",hi,Medical Emergency,High,Kochi,Sophie
+254,"River overflowing near Hyderabad, roads submerged, need boat rescue urgently someone call for help",ta,Flood,High,Hyderabad,
+255,"Landslide hit hillside village near Bangalore, 4 houses buried under mud",en,Landslide,Critical,Bangalore,
+256,"Earthquake caused wall collapse in Trichy, person named Priya trapped under debris someone call for help",hi,Earthquake,Critical,Trichy,Priya
+257,"Earthquake damaged several homes in 2 injured, need medical help situation getting worse",fr,Earthquake,High,,
+258,"severe waterlogging in madurai after continuous rain, help needed for elderly neighbours are also affected",ta,Flood,Medium,,
+259,"Flood water entered houses in Madurai, families stuck on rooftops since yesterday",en,Flood,Low,Madurai,
+260,"Building collapsed in Bangalore, 5 people feared trapped under rubble situation getting worse",es,Building Collapse,Critical,Bangalore,
+261,"Cyclone damaged roofs in Delhi, power lines down, 2 families affected situation getting worse",en,Cyclone,Medium,Delhi,
+262,"Sophie in Nagpur is having severe chest pain, need ambulance immediately situation getting worse",en,Medical Emergency,High,Nagpur,Sophie
+263,"Forest fire spreading near Mumbai, please send fire brigade immediately neighbours are also affected",ta,Fire,High,Mumbai,
+264,"Major road accident near Kochi, 2 vehicles involved, people injured situation getting worse",ta,Road Accident,High,Kochi,
+265,"Maria collapsed near Trichy, unconscious, please send medical help fast situation getting",en,Medical Emergency,Critical,Trichy,Maria
+266,"Under-construction building collapsed in Kolkata, workers trapped since 30 minutes ago situation getting worse",en,Building Collapse,Critical,Kolkata,
+267,"Landslide blocked the main road near Madurai, several vehicles stuck situation getting worse",en,Landslide,Low,Madurai,
+268,"Massive fire broke out in Kolkata market, thick smoke, 12 shops affected please respond fast",en,Fire,High,Kolkata,
+269,"cyclone damaged roofs in madurai, power lines down, 10 families affected not sure what to do",en,Cyclone,Medium,,
+270,"Old structure collapsed near Mumbai market, operation needed",en,Building Collapse,Critical,Mumbai,
+271,"Bus accident on Bangalore highway, several passengers trapped, need rescue not sure what to do",hi,Road Accident,Critical,Bangalore,
+272,"Landslide damaged bridge connecting Kolkata, rescue team needed urgently not sure what to do",es,Landslide,High,Kolkata,
+273,"Cyclone approaching Kolkata coast, strong winds, trees falling since on Friday neighbours are also affected",en,Cyclone,Low,Kolkata,
+274,Pregnant woman in Chennai needs urgent hospital transport right now neighbours are also affected,en,Medical Emergency,High,Chennai,
+275,"Heavy wind and rain in Salem due to cyclone, evacuation needed urgently neighbours are also affected",en,Cyclone,High,Salem,
+276,"Fatima collapsed near Thanjavur, unconscious, please send medical help fast situation getting worse",hi,Medical Emergency,Critical,Thanjavur,Fatima
+277,"fire in apartment building chennai, smoke everywhere, evacuation help situation getting worse",en,Fire,High,,
+278,"Forest fire near Pune, please send fire brigade immediately",fr,Fire,High,Pune,
+279,"Aftershocks continuing in Pune since 30 minutes ago, residents scared to go inside not sure what to do",ta,Earthquake,Low,Pune,
+280,"Under-construction building collapsed in Delhi, workers trapped since this morning",es,Building Collapse,Critical,Delhi,
+281,"Major accident near Delhi, 8 vehicles involved, people injured",en,Road Accident,High,Delhi,
+282,"Aftershocks continuing in Trichy since last night, residents scared to go inside situation getting worse",es,Earthquake,Low,Trichy,
+283,"Severe waterlogging in Trichy after continuous rain, help needed for elderly",es,Flood,Medium,Trichy,
+284,"Cyclone damaged roofs in Trichy, power lines down, 3 families affected",en,Cyclone,Medium,Trichy,
+285,"Bus accident on Pune highway, several passengers trapped, need rescue neighbours are also affected",en,Road Accident,Critical,Pune,
+286,"Fire in apartment building Delhi, smoke everywhere, need evacuation help situation getting worse",fr,Fire,High,Delhi,
+287,"Continuous rain triggered landslide in Coimbatore, Anjali missing since today",ta,Landslide,Critical,Coimbatore,Anjali
+288,"Major road accident near Coimbatore, 12 vehicles involved, people injured",ta,Road Accident,High,Coimbatore,
+289,"Aftershocks continuing in Nagpur since on Friday, residents scared to go inside sure what to do",ta,Earthquake,Low,Nagpur,
+290,"Building collapsed in Coimbatore, 12 people feared trapped under rubble situation getting worse",hi,Building Collapse,Critical,Coimbatore,
+291,"Strong earthquake felt in Hyderabad, buildings shaking, people running outside situation getting worse",ta,Earthquake,Low,Hyderabad,
+292,"Old structure collapsed near Trichy market, rescue operation needed",hi,Building Collapse,Critical,Trichy,
+293,"Massive fire broke out in Nagpur market, thick smoke, 12 shops affected situation getting worse",fr,Fire,High,Nagpur,
+294,"Bus accident on Vellore highway, several passengers trapped, rescue please respond fast",en,Road Accident,Critical,Vellore,
+295,"Building collapsed in Nagpur, 10 people feared trapped under someone call for help",en,Building Collapse,Critical,Nagpur,
+296,"Strong earthquake felt in Nagpur, buildings shaking, people running outside",ta,Earthquake,Low,Nagpur,
+297,"Forest fire spreading near Kolkata, please send fire brigade immediately",es,Fire,High,Kolkata,
+298,"Continuous rain triggered landslide in Chennai, Sophie missing since 2 hours ago not sure what to do",fr,Landslide,Critical,Chennai,Sophie
+299,"cyclone damaged roofs in coimbatore, power lines down, 12 families affected",fr,Cyclone,Medium,,
+300,"Truck overturned near Nagpur, driver Priya trapped in cabin please respond fast",es,Road Accident,Critical,Nagpur,Priya
+301,"Flood water entered houses in Madurai, families stuck on rooftops since last night",en,Flood,Low,Madurai,
+302,"Wall of building fell in Hyderabad, Ravi injured, ambulance required neighbours are also affected",ta,Building Collapse,High,Hyderabad,Ravi
+303,"Kumar collapsed near Delhi, unconscious, please send medical help fast",fr,Medical Emergency,Critical,Delhi,Kumar
+304,"Cyclone damaged roofs in Hyderabad, power lines down, 5 families affected",ta,Cyclone,Medium,Hyderabad,
+305,"House fire in Kochi, Maria and family trapped inside, send fire truck not sure what to do",fr,Fire,Critical,Kochi,Maria
+306,"snake bite emergency in coimbatore, rahul needs antivenom immediately",fr,Medical Emergency,High,,
+307,"Lakshmi collapsed near Coimbatore, unconscious, please send medical help fast neighbours are also affected",en,Medical Emergency,Critical,Coimbatore,Lakshmi
+308,"Landslide hit hillside village near Delhi, 5 houses buried under mud neighbours are also affected",fr,Landslide,Critical,Delhi,
+309,"Landslide damaged bridge connecting Kolkata, rescue team needed urgently neighbours are also affected",es,Landslide,High,Kolkata,
+310,"Elena collapsed Vellore, unconscious, please send medical help fast not sure what to do",hi,Medical Emergency,Critical,Vellore,Elena
+311,"Forest fire spreading near Hyderabad, please send fire brigade immediately situation getting worse",en,Fire,High,Hyderabad,
+312,"Continuous rain triggered landslide in Trichy, Lakshmi missing since today please respond fast",hi,Landslide,Critical,Trichy,Lakshmi
+313,"Landslide damaged bridge connecting Chennai, rescue team needed urgently neighbours are also affected",ta,Landslide,High,Chennai,
+314,pregnant woman in nagpur needs urgent hospital transport right now someone call for help,en,Medical Emergency,High,,
+315,"House fire in Trichy, Suresh and family trapped inside, send fire truck",en,Fire,Critical,Trichy,Suresh
+316,"Heavy wind and rain in Chennai due to cyclone, evacuation needed urgently",hi,Cyclone,High,Chennai,
+317,"collapsed near Delhi, unconscious, please send medical help fast someone call for help",es,Medical Emergency,Critical,Delhi,
+318,"Snake bite emergency in Thanjavur, Pierre needs antivenom immediately neighbours are also affected",es,Medical Emergency,High,Thanjavur,Pierre
+319,"Flood entered houses in Madurai, families stuck on rooftops since today someone call for help",es,Flood,Low,Madurai,
+320,"Heavy flooding in Hyderabad, water level rising fast, 3 people trapped please respond fast",ta,Flood,Critical,Hyderabad,
+321,"House fire in Pune, Sophie and family trapped inside, send fire truck please respond fast",en,Fire,Critical,Pune,Sophie
+322,"Strong earthquake felt in Coimbatore, buildings shaking, people running outside situation getting worse",fr,Earthquake,Low,Coimbatore,
+323,"Snake bite emergency in Coimbatore, Priya needs antivenom immediately situation getting worse",en,Medical Emergency,High,Coimbatore,Priya
+324,"Strong earthquake felt in Vellore, buildings shaking, people running outside please respond fast",en,Earthquake,Low,Vellore,
+325,"Continuous rain triggered landslide in Trichy, Anjali missing since this morning",ta,Landslide,Critical,Trichy,Anjali
+326,"Strong earthquake felt in Vellore, buildings shaking, people running outside someone call for help",en,Earthquake,Low,Vellore,
+327,"Aftershocks continuing in Vellore since yesterday, residents scared to go inside",hi,Earthquake,Low,Vellore,
+328,"Wall of building fell in Hyderabad, Anjali injured, ambulance required",fr,Building Collapse,High,Hyderabad,Anjali
+329,"Wall of building fell in Delhi, Fatima injured, ambulance required someone call for help",ta,Building Collapse,High,Delhi,Fatima
+330,"Aftershocks continuing in Hyderabad since last night, residents scared to go inside neighbours are also affected",ta,Earthquake,Low,Hyderabad,
+331,"Cyclone warning issued for Bangalore, coastal residents need shelter immediately",es,Cyclone,High,Bangalore,
+332,"massive fire broke out in nagpur market, thick smoke, 12 shops affected neighbours are also affected",hi,Fire,High,,
+333,"Bus accident on Mumbai highway, several passengers trapped, need rescue please respond fast",ta,Road Accident,Critical,Mumbai,
+334,"Heavy flooding in Kolkata, water level rising fast, 10 people trapped please respond fast",fr,Flood,Critical,Kolkata,
+335,"Cyclone warning issued for Bangalore, coastal residents need shelter immediately",hi,Cyclone,High,Bangalore,
+336,"Snake bite emergency in Mumbai, Maria needs antivenom immediately neighbours are also affected",hi,Medical Emergency,High,Mumbai,Maria
+337,"Lakshmi in Chennai is having severe chest pain, need immediately",es,Medical Emergency,High,Chennai,Lakshmi
+338,"Cyclone warning issued for Vellore, coastal residents need shelter",ta,Cyclone,High,Vellore,
+339,"Fire in apartment building Chennai, smoke everywhere, need evacuation help",hi,Fire,High,Chennai,
+340,"House fire in Mumbai, Pierre and family trapped inside, send fire truck",en,Fire,Critical,Mumbai,Pierre
+341,"Suresh collapsed near Trichy, unconscious, please send medical help fast not sure what to do",es,Medical Emergency,Critical,Trichy,Suresh
+342,"Cyclone damaged roofs in Madurai, power lines down, 6 families affected someone call for help",en,Cyclone,Medium,Madurai,
+343,"Snake bite emergency in Kochi, Elena needs antivenom immediately",en,Medical Emergency,Medium,Kochi,Elena
+344,"Flood water entered houses in Coimbatore, families stuck on rooftops since 2 hours ago someone call for help",es,Flood,Low,Coimbatore,
+345,"River overflowing near Vellore, roads submerged, need boat rescue urgently",en,Flood,High,Vellore,
+346,"Severe waterlogging in Kolkata after continuous rain, help needed for elderly",fr,Flood,Medium,Kolkata,
+347,"Old structure collapsed near Thanjavur market, rescue operation needed situation getting worse",en,Building Collapse,Critical,Thanjavur,
+348,"massive fire broke out in kolkata market, thick 2 shops affected not sure what to do",fr,Fire,High,,
+349,"Flood water entered houses in Thanjavur, families stuck on rooftops since 2 hours ago",hi,Flood,Low,Thanjavur,
+350,"Cyclone damaged roofs in Salem, power lines down, 3 families affected",fr,Cyclone,Medium,Salem,
+351,"John collapsed near Bangalore, unconscious, send medical help fast",hi,Medical Emergency,Critical,Bangalore,John
+352,"Cyclone approaching Hyderabad coast, strong winds, trees falling since yesterday",ta,Cyclone,High,Hyderabad,
+353,"Wall of building fell in Chennai, John injured, ambulance required please respond fast",ta,Building Collapse,High,Chennai,John
+354,"Heavy flooding in Madurai, water level rising fast, 5 people trapped situation getting worse",es,Flood,Critical,Madurai,
+355,"Earthquake damaged homes in Chennai, 12 injured, need medical help please respond fast",hi,Earthquake,High,Chennai,
+356,"Heavy wind and rain in Kolkata due to cyclone, evacuation needed urgently",en,Cyclone,High,Kolkata,
+357,"Strong earthquake felt in Pune, buildings shaking, people running outside not sure what to do",es,Earthquake,Low,Pune,
+358,"Wall of building fell in Kolkata, injured, ambulance required situation getting worse",en,Building Collapse,High,Kolkata,
+359,"Forest fire spreading near Hyderabad, please send fire brigade please respond fast",fr,Fire,High,Hyderabad,
+360,"Landslide hit hillside village near Pune, 8 houses buried under mud someone call for help",en,Landslide,Critical,Pune,
+361,"Massive fire broke out in Vellore market, thick smoke, 12 shops affected not sure what to do",hi,Fire,High,Vellore,
+362,"Anjali collapsed near Delhi, unconscious, please send medical help fast please respond fast",hi,Medical Emergency,Critical,Delhi,Anjali
+363,"Landslide hit hillside near Kochi, 8 houses buried under mud someone call for help",hi,Landslide,Critical,Kochi,
+364,"Continuous rain triggered landslide in Delhi, Lakshmi missing since on Friday",en,Landslide,Critical,Delhi,Lakshmi
+365,"Aftershocks continuing in Vellore since last night, residents scared to go inside not sure what to do",fr,Earthquake,Low,Vellore,
+366,"Severe waterlogging in Nagpur after continuous rain, help needed for elderly",fr,Flood,Medium,Nagpur,
+367,"Landslide hit hillside village near Trichy, 3 houses buried under mud",hi,Landslide,Critical,Trichy,
+368,"house fire in trichy, meena and family trapped inside, send fire truck",en,Fire,Critical,,
+369,"Continuous rain triggered landslide in Madurai, John missing since 30 minutes ago",fr,Landslide,Critical,Madurai,John
+370,"Carlos in Pune is having severe chest pain, need ambulance immediately",es,Medical Emergency,High,Pune,Carlos
+371,"Landslide damaged bridge connecting Thanjavur, rescue team needed urgently neighbours are also affected",fr,Landslide,High,Thanjavur,
+372,"Flood water entered houses in Trichy, families stuck on rooftops since yesterday not sure what to do",hi,Flood,Low,Trichy,
+373,"Earthquake damaged several homes in Kolkata, 8 injured, need medical help",ta,Earthquake,High,Kolkata,
+374,"Cyclone approaching Delhi coast, winds, trees falling since today someone call for help",ta,Cyclone,Low,Delhi,
+375,"River overflowing near Mumbai, roads submerged, need boat rescue urgently",es,Flood,High,Mumbai,
+376,"Forest fire spreading near Delhi, please send fire brigade immediately situation getting worse",es,Fire,Critical,Delhi,
+377,"Earthquake damaged several homes in Trichy, 2 injured, need medical help please respond fast",es,Earthquake,High,Trichy,
+378,"Truck overturned near Bangalore, driver David trapped in cabin situation getting worse",en,Road Accident,Critical,Bangalore,David
+379,"Earthquake caused wall collapse in Delhi, person named Lakshmi trapped under debris please respond fast",en,Earthquake,Critical,Delhi,Lakshmi
+380,"Heavy flooding in Salem, water level rising fast, 2 people trapped neighbours are also affected",hi,Flood,Critical,Salem,
+381,"Landslide damaged bridge connecting Kochi, rescue team needed urgently situation getting worse",ta,Landslide,High,Kochi,
+382,"Under-construction building collapsed in Coimbatore, workers trapped since this morning please respond fast",en,Building Collapse,Critical,Coimbatore,
+383,"Cyclone warning issued for Nagpur, coastal residents need shelter immediately someone call for help",es,Cyclone,High,Nagpur,
+384,"of building fell in Mumbai, Carlos injured, ambulance required neighbours are also affected",ta,Building Collapse,High,Mumbai,Carlos
+385,"Landslide blocked the main road near Nagpur, several vehicles stuck",en,Landslide,Low,Nagpur,
+386,"Flood water entered houses in Kochi, families stuck on rooftops since 30 minutes ago situation getting worse",en,Flood,Low,Kochi,
+387,"arjun met with a bike accident near hyderabad, bleeding heavily",en,Road Accident,Low,,
+388,"Maria collapsed near Vellore, unconscious, please send medical help fast",ta,Medical Emergency,Critical,Vellore,Maria
+389,"Strong earthquake felt in Salem, buildings shaking, people running outside not sure what to do",hi,Earthquake,Low,Salem,
+390,"Truck overturned near Nagpur, driver Pierre trapped in cabin",en,Road Accident,Critical,Nagpur,Pierre
+391,"bus accident on hyderabad highway, several passengers trapped, need rescue neighbours are also affected",en,Road Accident,Critical,,
+392,"Earthquake caused wall collapse in Hyderabad, person named Kumar trapped under debris",en,Earthquake,Critical,Hyderabad,Kumar
+393,"Cyclone warning issued for Pune, coastal residents need shelter immediately not sure what to do",hi,Cyclone,High,Pune,
+394,"Massive fire broke out in Mumbai market, thick smoke, 3 shops affected",fr,Fire,High,Mumbai,
+395,"Landslide damaged bridge connecting Delhi, rescue team needed urgently someone call for",en,Landslide,High,Delhi,
+396,"snake bite emergency in vellore, rahul needs antivenom immediately",ta,Medical Emergency,High,,
+397,"Aftershocks continuing in Bangalore since 2 hours ago, residents scared to go inside situation getting worse",en,Earthquake,Low,Bangalore,
+398,"Bus accident on Kolkata highway, several passengers trapped, need rescue not sure what to do",hi,Road Accident,Critical,Kolkata,
+399,"Aftershocks continuing in Nagpur since on Monday, residents scared to go inside",ta,Earthquake,Low,Nagpur,
+400,"Flood water entered houses in Kolkata, families stuck on rooftops since 30 minutes ago",ta,Flood,Low,Kolkata,
+401,"Massive fire broke out in Madurai market, thick smoke, 6 shops affected",hi,Fire,High,Madurai,
+402,"Continuous rain triggered landslide in Chennai, Anjali missing since 30 minutes ago situation getting worse",fr,Landslide,Critical,Chennai,Anjali
+403,"Continuous rain triggered landslide in Bangalore, Rahul missing since yesterday",fr,Landslide,Critical,Bangalore,Rahul
+404,"Snake bite emergency in Hyderabad, Kumar needs antivenom immediately someone call for help",hi,Medical Emergency,High,Hyderabad,Kumar
+405,"Fatima met with a bike accident near Thanjavur, bleeding heavily",en,Road Accident,Low,Thanjavur,Fatima
+406,"Landslide blocked the main road near Madurai, vehicles stuck please respond fast",ta,Landslide,Critical,Madurai,
+407,"Strong earthquake felt in Coimbatore, buildings shaking, people running outside not sure what to do",en,Earthquake,Low,Coimbatore,
+408,"Massive fire broke out in Chennai market, thick smoke, 8 shops affected",ta,Fire,High,Chennai,
+409,"Fire in apartment building Hyderabad, smoke everywhere, need evacuation help neighbours are also affected",en,Fire,High,Hyderabad,
+410,"Ravi met with a bike accident near Delhi, bleeding heavily someone call for help",fr,Road Accident,Critical,Delhi,Ravi
+411,"Under-construction building collapsed in Chennai, workers trapped since last night",ta,Building Collapse,Critical,Chennai,
+412,"Cyclone damaged roofs in Pune, power lines 10 families affected not sure what to do",hi,Cyclone,Medium,Pune,
+413,"Continuous rain triggered landslide in Hyderabad, Divya missing since last night please respond fast",hi,Landslide,Critical,Hyderabad,Divya
+414,"landslide damaged bridge connecting madurai, rescue team needed urgently",en,Landslide,High,,
+415,"Fire in apartment Pune, smoke everywhere, need evacuation help someone call for help",es,Fire,High,Pune,
+416,"Snake bite emergency in Pune, Pierre needs antivenom immediately someone call for",en,Medical Emergency,High,Pune,Pierre
+417,"Landslide damaged bridge connecting Vellore, rescue team needed urgently",en,Landslide,High,Vellore,
+418,"Building collapsed in Salem, 5 people feared trapped under rubble not sure what to do",es,Building Collapse,Critical,Salem,
+419,"Aftershocks continuing in Trichy since 30 minutes ago, residents scared to go inside",hi,Earthquake,Low,Trichy,
+420,"in Delhi is having severe chest pain, need ambulance immediately situation getting worse",hi,Medical Emergency,High,Delhi,
+421,"Forest fire spreading near Nagpur, please send fire brigade",es,Fire,High,Nagpur,
+422,"Heavy flooding in Bangalore, water level rising fast, 4 people trapped someone call for help",hi,Flood,Critical,Bangalore,
+423,"Snake bite emergency in Pune, Ravi needs antivenom immediately neighbours are also affected",hi,Medical Emergency,Critical,Pune,Ravi
+424,"Old structure collapsed near Kochi market, rescue operation needed neighbours are also affected",fr,Building Collapse,Critical,Kochi,
+425,"Massive fire broke out in Salem market, thick smoke, 4 shops affected not sure what to do",ta,Fire,High,Salem,
+426,"Massive fire broke out in Kochi market, thick smoke, 8 shops affected please respond fast",ta,Fire,High,Kochi,
+427,"Old structure collapsed near Kochi market, rescue operation neighbours are also affected",fr,Building Collapse,Critical,Kochi,
+428,"Massive fire broke out in Madurai market, thick smoke, 3 affected please respond fast",ta,Fire,High,Madurai,
+429,"Landslide blocked the main road near Bangalore, several vehicles stuck situation getting worse",ta,Landslide,Low,Bangalore,
+430,"River overflowing near Salem, roads submerged, need boat rescue urgently not sure what to do",en,Flood,High,Salem,
+431,"Cyclone approaching Mumbai coast, strong winds, trees falling since on Monday situation getting worse",fr,Cyclone,Low,Mumbai,
+432,"Major road accident near Nagpur, 8 vehicles involved, people injured please respond fast",en,Road Accident,High,Nagpur,
+433,"Fire in apartment building Thanjavur, smoke everywhere, need evacuation help neighbours are also affected",en,Fire,High,Thanjavur,
+434,"cyclone damaged roofs in kolkata, power lines down, 6 families affected",hi,Cyclone,High,,
+435,"Forest fire spreading near Chennai, please send fire brigade immediately neighbours are also",fr,Fire,High,Chennai,
+436,"Massive fire broke out in Chennai market, thick smoke, 12 shops affected someone call for help",en,Fire,High,Chennai,
+437,"Landslide blocked the main road near Kochi, several vehicles stuck neighbours are also affected",hi,Landslide,Low,Kochi,
+438,"Aftershocks continuing in Chennai since today, residents scared to go inside neighbours are also affected",fr,Earthquake,Low,Chennai,
+439,"Cyclone approaching Hyderabad coast, strong winds, trees falling since 2 hours ago",hi,Cyclone,Low,Hyderabad,
+440,"Massive fire broke out in Hyderabad market, thick smoke, 10 shops affected situation getting worse",en,Fire,High,Hyderabad,
+441,"Building collapsed in Salem, 10 people feared trapped under rubble",en,Building Collapse,Critical,Salem,
+442,"Cyclone warning issued for Kolkata, coastal residents need shelter immediately situation getting",hi,Cyclone,High,Kolkata,
+443,"Earthquake caused wall collapse in Kolkata, person named Fatima trapped under debris neighbours are also affected",en,Earthquake,Critical,Kolkata,Fatima
+444,"Snake bite emergency in Kochi, Rahul needs antivenom immediately situation getting worse",es,Medical Emergency,High,Kochi,Rahul
+445,"Strong earthquake felt in Madurai, buildings shaking, people running outside neighbours are also affected",en,Earthquake,Low,Madurai,
+446,"Cyclone damaged roofs in Madurai, power lines down, 6 families affected someone call for help",fr,Cyclone,Medium,Madurai,
+447,"River overflowing near Delhi, roads submerged, need boat rescue urgently sure what to do",hi,Flood,High,Delhi,
+448,"Arjun in Chennai is having severe chest pain, need ambulance immediately",ta,Medical Emergency,High,Chennai,Arjun
+449,"Earthquake damaged several homes in Madurai, 12 injured, need medical help",ta,Earthquake,High,Madurai,
+450,"Massive fire broke out in Bangalore market, thick smoke, 8 shops affected situation getting worse",en,Fire,High,Bangalore,
+451,"Landslide damaged bridge connecting Thanjavur, rescue team needed urgently situation getting worse",en,Landslide,High,Thanjavur,
+452,"Bus accident on Kolkata highway, several passengers trapped, need rescue not sure what to do",en,Road Accident,Critical,Kolkata,
+453,"House fire in Vellore, Sophie and family trapped inside, send fire truck",fr,Fire,Critical,Vellore,Sophie
+454,"Forest fire spreading near Mumbai, please send fire brigade immediately someone call for help",ta,Fire,High,Mumbai,
+455,"met with a bike accident near Trichy, bleeding heavily please respond fast",en,Road Accident,Low,Trichy,
+456,"Cyclone damaged roofs in Madurai, power lines down, 2 affected",en,Cyclone,Medium,Madurai,
+457,"overturned near Trichy, driver Meena trapped in cabin situation getting worse",en,Road Accident,Critical,Trichy,Meena
+458,"Cyclone damaged roofs in Mumbai, power lines down, 4 families affected neighbours are also affected",es,Cyclone,Medium,Mumbai,
+459,"David met with a bike accident near Kolkata, bleeding heavily",en,Road Accident,Low,Kolkata,David
+460,"Major road accident near Salem, 10 vehicles involved, people injured situation getting worse",es,Road Accident,High,Salem,
+461,"Old structure collapsed near Kolkata market, rescue operation needed",en,Building Collapse,Critical,Kolkata,
+462,"Fire in apartment building Kolkata, smoke everywhere, need evacuation help someone call for help",fr,Fire,High,Kolkata,
+463,"Aftershocks continuing in Bangalore since yesterday, residents scared to go inside please respond fast",hi,Earthquake,Low,Bangalore,
+464,"Fire in apartment building Salem, smoke everywhere, need evacuation help neighbours are also affected",fr,Fire,High,Salem,
+465,"Massive fire broke out in Kolkata market, thick smoke, 6 shops affected not sure what to do",en,Fire,High,Kolkata,
+466,"Landslide blocked the main road near Trichy, several vehicles stuck",ta,Landslide,Low,Trichy,
+467,"strong earthquake felt in madurai, buildings shaking, people running outside",en,Earthquake,Low,,
+468,"River overflowing near Bangalore, roads submerged, need boat rescue urgently",hi,Flood,High,Bangalore,
+469,"Fire in apartment building Pune, smoke everywhere, need evacuation help not sure what to do",es,Fire,High,Pune,
+470,"Aftershocks continuing in Trichy since 2 hours ago, residents scared to go inside neighbours are also affected",hi,Earthquake,Low,Trichy,
+471,"Strong earthquake felt in Trichy, buildings shaking, people running outside not sure what to do",en,Earthquake,Low,Trichy,
+472,"of building fell in Trichy, Maria injured, ambulance required situation getting worse",es,Building Collapse,High,Trichy,Maria
+473,"Cyclone warning issued Kolkata, coastal residents need shelter immediately situation getting worse",en,Cyclone,High,Kolkata,
+474,"Continuous rain triggered landslide in Nagpur, Anjali missing since 30 minutes ago neighbours are also affected",es,Landslide,Critical,Nagpur,Anjali
+475,"Heavy wind and rain in Vellore due to cyclone, evacuation needed urgently",fr,Cyclone,High,Vellore,
+476,"snake bite emergency in nagpur, priya needs antivenom immediately neighbours are also affected",en,Medical Emergency,High,,
+477,"Ravi in Delhi is having severe chest pain, need ambulance immediately",ta,Medical Emergency,High,Delhi,Ravi
+478,"Aftershocks continuing in since 2 hours ago, residents scared to go inside",en,Earthquake,Low,,
+479,"landslide hit hillside village near mumbai, 8 houses buried under mud please respond fast",ta,Landslide,Critical,,
+480,"Heavy wind and in Thanjavur due to cyclone, evacuation needed urgently neighbours are also affected",hi,Cyclone,High,Thanjavur,
+481,"house fire in pune, rahul and family trapped inside, send fire truck please respond",fr,Fire,Critical,,
+482,"Snake bite emergency in Thanjavur, Anjali needs antivenom immediately",en,Medical Emergency,High,Thanjavur,Anjali
+483,Heavy wind and rain in Coimbatore due to evacuation needed urgently not sure what to do,hi,Cyclone,High,Coimbatore,
+484,"Earthquake damaged several homes in Salem, 8 injured, need help not sure what to do",en,Earthquake,High,Salem,
+485,"bite emergency in chennai, ravi needs antivenom immediately",hi,Medical Emergency,High,,
+486,"under-construction building collapsed in coimbatore, workers trapped since yesterday",hi,Building Collapse,Critical,,
+487,"Earthquake caused wall collapse in Coimbatore, person named Lakshmi trapped under debris situation getting",ta,Earthquake,Critical,Coimbatore,Lakshmi
+488,"Ravi collapsed near Trichy, unconscious, please send help fast",es,Medical Emergency,Critical,Trichy,Ravi
+489,"Massive fire broke out in Kolkata market, thick smoke, 3 shops affected not sure what to do",hi,Fire,High,Kolkata,
+490,"Fire in apartment building Kolkata, smoke everywhere, need evacuation help",hi,Fire,High,Kolkata,
+491,"cyclone damaged roofs in hyderabad, power lines down, 3 families affected",en,Cyclone,Medium,,
+492,"major road accident near kochi, 3 vehicles involved, people injured",en,Road Accident,High,,
+493,"Flood water entered houses in Hyderabad, families stuck on rooftops since 2 hours ago",fr,Flood,Low,Hyderabad,
+494,"Continuous rain triggered landslide in Thanjavur, Fatima missing since yesterday",es,Landslide,Critical,Thanjavur,Fatima
+495,"River overflowing near Thanjavur, roads submerged, need boat rescue urgently please respond fast",hi,Flood,High,Thanjavur,
+496,"Arjun met with a bike accident near Pune, bleeding heavily",en,Road Accident,Low,Pune,Arjun
+497,"Suresh with a bike accident near Vellore, bleeding heavily someone call for help",fr,Road Accident,Low,Vellore,Suresh
+498,"Bus accident on Mumbai highway, several passengers trapped, need rescue",es,Road Accident,Critical,Mumbai,
+499,"Divya met with a bike accident near Madurai, bleeding heavily",ta,Road Accident,Low,Madurai,Divya
+500,"fatima in chennai is having severe chest pain, need ambulance immediately",ta,Medical Emergency,High,,
+501,"Landslide damaged bridge connecting Salem, rescue team needed urgently situation getting worse",en,Landslide,High,Salem,
+502,"Landslide blocked the main road near Thanjavur, several vehicles stuck",en,Landslide,Low,Thanjavur,
+503,"Priya collapsed near Coimbatore, unconscious, please send help fast not sure what to do",hi,Medical Emergency,Critical,Coimbatore,Priya
+504,"Landslide blocked the main road near Coimbatore, several vehicles stuck please respond fast",en,Landslide,Low,Coimbatore,
+505,"Landslide blocked the main road near Pune, several vehicles stuck",en,Landslide,Low,Pune,
+506,"Massive fire broke out in Bangalore market, thick smoke, 3 shops affected",hi,Fire,High,Bangalore,
+507,"House fire in Kochi, Priya and family inside, send fire truck please respond fast",es,Fire,Critical,Kochi,Priya
+508,"Cyclone warning issued for Hyderabad, coastal residents need shelter immediately someone call for help",es,Cyclone,High,Hyderabad,
+509,"Anjali met with a bike accident near Salem, bleeding heavily",en,Road Accident,Low,Salem,Anjali
+510,"Aftershocks continuing in Hyderabad since last night, residents scared to go inside situation getting worse",en,Earthquake,Low,Hyderabad,
+511,"Heavy flooding in Vellore, water level rising fast, 3 people trapped please respond fast",es,Flood,Critical,Vellore,
+512,"Landslide hit hillside village near Chennai, 2 houses buried under mud situation getting worse",en,Landslide,Critical,Chennai,
+513,"Fire in apartment building Hyderabad, smoke everywhere, need evacuation help not sure what to do",ta,Fire,High,Hyderabad,
+514,"landslide damaged bridge connecting pune, rescue team needed urgently please respond fast",fr,Landslide,High,,
+515,"Continuous rain triggered landslide in Delhi, Kumar missing since on Friday situation getting worse",en,Landslide,Critical,Delhi,Kumar
+516,"Bus on Kochi highway, several passengers trapped, need rescue please respond fast",ta,Road Accident,Critical,Kochi,
+517,"Old structure collapsed near Hyderabad market, rescue operation needed not sure what to do",en,Building Collapse,Critical,Hyderabad,
+518,"Wall of building fell in Kolkata, Kumar injured, ambulance required",en,Building Collapse,High,Kolkata,Kumar
+519,"Arjun collapsed near Hyderabad, unconscious, please send medical help fast please respond fast",es,Medical Emergency,Critical,Hyderabad,Arjun
+520,"Landslide hit hillside village near Delhi, 2 houses buried under mud not sure what to do",en,Landslide,Critical,Delhi,
+521,"Earthquake caused wall collapse in Pune, person named Suresh under debris situation getting worse",es,Earthquake,Critical,Pune,Suresh
+522,"Landslide damaged bridge connecting Salem, rescue team needed urgently neighbours are also",en,Landslide,High,Salem,
+523,"old structure collapsed near pune market, rescue operation needed someone call for help",hi,Building Collapse,Critical,,
+524,"Cyclone damaged roofs in Chennai, power lines down, 4 families affected please respond fast",es,Cyclone,Medium,Chennai,
+525,"Strong earthquake felt in Trichy, buildings shaking, people running outside",ta,Earthquake,Low,Trichy,
+526,"Earthquake damaged several homes Bangalore, 5 injured, need medical help neighbours are also affected",hi,Earthquake,High,Bangalore,
+527,"fire in apartment building madurai, smoke everywhere, need evacuation help",en,Fire,High,,
+528,"Massive fire broke out in Pune market, thick smoke, 6 shops affected someone call for help",ta,Fire,High,Pune,
+529,"massive fire broke out in kochi market, thick smoke, 4 shops affected not sure what to do",en,Fire,High,,
+530,"Aftershocks continuing in since last night, residents scared to go inside not sure what to do",fr,Earthquake,Low,,
+531,"Wall of building fell in Delhi, Priya injured, ambulance required neighbours are also affected",es,Building Collapse,High,Delhi,Priya
+532,"Building collapsed in Mumbai, 2 people feared trapped under rubble someone call for help",fr,Building Collapse,Critical,Mumbai,
+533,"under-construction building collapsed in kolkata, workers trapped since last night please respond fast",fr,Building Collapse,Critical,,
+534,"Bus accident on Mumbai highway, several passengers trapped, need",en,Road Accident,Critical,Mumbai,
+535,"heavy wind and rain in coimbatore due to cyclone, evacuation needed urgently",es,Cyclone,High,,
+536,"Wall of building fell in Delhi, Maria injured, ambulance required someone call for help",en,Building Collapse,High,Delhi,Maria
+537,"Cyclone approaching Kolkata coast, strong winds, trees falling since on Friday",en,Cyclone,Low,Kolkata,
+538,"snake bite emergency in kochi, suresh needs antivenom immediately",es,Medical Emergency,High,,
+539,"severe waterlogging in salem after continuous rain, help needed for elderly",hi,Flood,Medium,,
+540,"Bus accident on Delhi highway, several passengers trapped, need rescue respond fast",es,Road Accident,Critical,Delhi,
+541,"Severe waterlogging in Trichy after continuous rain, help needed for elderly neighbours are also affected",ta,Flood,Low,Trichy,
+542,"Carlos in Coimbatore is having severe chest pain, need ambulance immediately please respond fast",ta,Medical Emergency,High,Coimbatore,Carlos
+543,"Fatima in Mumbai is having severe chest pain, need ambulance immediately",en,Medical Emergency,High,Mumbai,Fatima
+544,"Cyclone damaged roofs in Bangalore, power lines down, 5 families affected",hi,Cyclone,Medium,Bangalore,
+545,"Heavy wind and rain in Bangalore due to cyclone, evacuation needed not sure what to do",ta,Cyclone,High,Bangalore,
+546,"Earthquake caused wall collapse in Pune, person named Rahul trapped under debris please respond fast",ta,Earthquake,Critical,Pune,Rahul
+547,"Forest fire spreading near Mumbai, please send fire brigade immediately please respond fast",ta,Fire,High,Mumbai,
+548,"River overflowing near Kolkata, roads submerged, need boat rescue urgently",en,Flood,High,Kolkata,
+549,"Heavy wind and rain in Kolkata due to cyclone, evacuation needed urgently",en,Cyclone,High,Kolkata,
+550,"Landslide hit hillside village near Trichy, 8 houses buried under mud someone call for help",fr,Landslide,Critical,Trichy,
+551,Landslide hit hillside village near 4 houses buried under mud please respond fast,ta,Landslide,Critical,,
+552,"Cyclone approaching Hyderabad coast, strong winds, trees falling since this morning neighbours are also affected",en,Cyclone,Low,Hyderabad,
+553,"Severe waterlogging in Thanjavur after continuous rain, help needed for elderly neighbours are also affected",ta,Flood,Medium,Thanjavur,
+554,"Landslide damaged bridge connecting Thanjavur, rescue team needed urgently neighbours are also affected",en,Landslide,High,Thanjavur,
+555,"Aftershocks in Chennai since on Friday, residents scared to go inside neighbours are also affected",ta,Earthquake,Low,Chennai,
+556,"Landslide hit hillside village near Chennai, 3 houses buried under mud please respond fast",hi,Landslide,Critical,Chennai,
+557,"River overflowing near Kolkata, roads submerged, need boat rescue urgently",fr,Flood,High,Kolkata,
+558,"Earthquake damaged several homes in Pune, 12 injured, need medical help not sure what to do",es,Earthquake,High,Pune,
+559,"Bus accident on Vellore highway, several passengers trapped, need rescue not sure what to do",en,Road Accident,Critical,Vellore,
+560,"Major road accident near Chennai, 10 vehicles involved, people injured someone call for help",en,Road Accident,High,Chennai,
+561,"Fire in apartment building Coimbatore, smoke everywhere, need evacuation help not sure what to do",es,Fire,High,Coimbatore,
+562,"Forest fire spreading near Coimbatore, please send fire brigade immediately",en,Fire,High,Coimbatore,
+563,"Landslide damaged bridge connecting Mumbai, rescue team needed urgently not sure what to do",en,Landslide,High,Mumbai,
+564,"River overflowing near Delhi, roads submerged, need boat rescue urgently",en,Flood,High,Delhi,
+565,"Sophie met with a bike accident near Chennai, bleeding heavily situation getting worse",es,Road Accident,Low,Chennai,Sophie
+566,"Carlos collapsed near Vellore, unconscious, please send medical help fast please respond fast",en,Medical Emergency,Critical,Vellore,Carlos
+567,"Continuous rain triggered landslide Nagpur, Divya missing since 30 minutes ago someone call for help",es,Landslide,Critical,Nagpur,Divya
+568,"Earthquake caused wall collapse in Trichy, person named Anjali trapped under debris",es,Earthquake,Critical,Trichy,Anjali
+569,Pregnant woman in Pune needs urgent hospital transport right now situation worse,en,Medical Emergency,High,Pune,
+570,"massive fire broke out in kolkata market, thick smoke, 3 shops affected",es,Fire,High,,
+571,"Severe waterlogging in Mumbai after continuous rain, help needed for elderly not sure what to do",fr,Flood,Medium,Mumbai,
+572,"Cyclone damaged roofs in Delhi, power lines down, 8 families affected someone call for help",en,Cyclone,Medium,Delhi,
+573,"House fire in Salem, Anjali and family trapped inside, send fire truck situation getting worse",es,Fire,Critical,Salem,Anjali
+574,"Heavy flooding in Thanjavur, water level rising fast, 5 people trapped neighbours are also affected",en,Flood,Critical,Thanjavur,
+575,"Snake bite emergency in Kolkata, needs antivenom immediately",en,Medical Emergency,High,Kolkata,
+576,"Kumar collapsed near Salem, please send medical help fast",hi,Medical Emergency,Critical,Salem,Kumar
+577,"Old structure collapsed near Salem market, rescue operation needed situation getting worse",fr,Building Collapse,Critical,Salem,
+578,Pregnant woman in Chennai needs urgent hospital transport right now,ta,Medical Emergency,High,Chennai,
+579,"Earthquake damaged several homes in Mumbai, 8 injured, need medical help situation getting worse",es,Earthquake,High,Mumbai,
+580,"Under-construction building collapsed in Nagpur, workers trapped since 30 minutes ago",ta,Building Collapse,Critical,Nagpur,
+581,"Fire in apartment building Mumbai, smoke everywhere, need evacuation help",es,Fire,Low,Mumbai,
+582,"building collapsed in delhi, 10 people feared trapped under rubble not sure what to do",es,Building Collapse,Critical,,
+583,"Wall of building fell in Madurai, Lakshmi injured, ambulance required not sure what to do",en,Building Collapse,High,Madurai,Lakshmi
+584,"Severe waterlogging in Thanjavur after continuous rain, help needed for elderly neighbours are also affected",hi,Flood,Medium,Thanjavur,
+585,"Landslide hit hillside village near Trichy, 10 houses buried under mud",hi,Landslide,Critical,Trichy,
+586,"Wall of building fell in Salem, David injured, ambulance required",hi,Building Collapse,High,Salem,David
+587,"Continuous rain triggered landslide in Chennai, Priya missing since this morning neighbours are also affected",ta,Landslide,High,Chennai,Priya
+588,"Fatima met with a bike accident near Bangalore, bleeding heavily situation getting worse",fr,Road Accident,Low,Bangalore,Fatima
+589,"Aftershocks continuing in Mumbai since today, residents scared to go neighbours are also affected",fr,Earthquake,Low,Mumbai,
+590,"Landslide blocked the main road near Pune, several vehicles stuck",ta,Landslide,Low,Pune,
+591,"Heavy wind and rain in Trichy due to cyclone, evacuation needed urgently neighbours are also affected",fr,Cyclone,High,Trichy,
+592,"Earthquake damaged several homes in Coimbatore, 6 injured, need medical help",hi,Earthquake,High,Coimbatore,
+593,"Aftershocks continuing in Coimbatore since on Friday, residents scared to go inside",en,Earthquake,Low,Coimbatore,
+594,"Landslide damaged bridge connecting Hyderabad, rescue team needed urgently",hi,Landslide,High,Hyderabad,
+595,"Flood water entered houses in Kochi, families stuck on rooftops since on Friday not sure what to do",es,Flood,Low,Kochi,
+596,"Major road accident near Salem, 5 vehicles involved, people injured someone call for help",es,Road Accident,High,Salem,
+597,"John met with a bike accident near Vellore, bleeding heavily not sure what to do",hi,Road Accident,Low,Vellore,John
+598,"Bus accident on Mumbai highway, several passengers trapped, need rescue situation getting worse",fr,Road Accident,Critical,Mumbai,
+599,"Major road accident near Madurai, 4 vehicles involved, people injured",en,Road Accident,High,Madurai,
+600,"Severe waterlogging in Nagpur after continuous rain, help needed for elderly neighbours are also affected",ta,Flood,Medium,Nagpur,
+601,"Maria in Kolkata is having severe chest pain, need ambulance immediately please respond fast",fr,Medical Emergency,High,Kolkata,Maria
+602,"Landslide damaged bridge connecting Thanjavur, rescue team needed urgently neighbours are also affected",es,Landslide,High,Thanjavur,
+603,"Cyclone warning issued for Madurai, coastal residents need shelter immediately situation getting worse",hi,Cyclone,High,Madurai,
+604,"Under-construction building collapsed in Pune, workers trapped since on Monday",fr,Building Collapse,Critical,Pune,
+605,"Snake bite emergency in Pune, Sophie needs antivenom immediately",hi,Medical Emergency,High,Pune,Sophie
+606,"Heavy wind and rain in Salem due to cyclone, evacuation needed urgently please respond fast",en,Cyclone,High,Salem,
+607,"Maria met with a bike accident near Coimbatore, bleeding heavily situation getting worse",en,Road Accident,Low,Coimbatore,Maria
+608,"Major road accident near Coimbatore, 3 vehicles involved, people injured",fr,Road Accident,High,Coimbatore,
+609,"Earthquake damaged several homes in Pune, 6 injured, need medical help neighbours are also affected",en,Earthquake,High,Pune,
+610,"Heavy flooding in Hyderabad, water level rising fast, 4 people trapped",en,Flood,Critical,Hyderabad,
+611,"House fire in Salem, Divya and family trapped inside, send fire truck",hi,Fire,Critical,Salem,Divya
+612,"Divya collapsed near Madurai, unconscious, please send medical help fast someone call for help",hi,Medical Emergency,Critical,Madurai,Divya
+613,"Heavy flooding in Thanjavur, water level rising fast, 5 people trapped situation getting worse",hi,Flood,Critical,Thanjavur,
+614,"Landslide hit hillside village near Mumbai, 8 houses buried under mud",ta,Landslide,Critical,Mumbai,
+615,"Building collapsed in Madurai, 5 people feared trapped under rubble not sure what to do",en,Building Collapse,Critical,Madurai,
+616,"heavy wind and rain in pune due to cyclone, evacuation needed urgently",en,Cyclone,High,,
+617,Old structure collapsed near Bangalore rescue operation needed,en,Building Collapse,Critical,Bangalore,
+618,Truck overturned near driver Kumar trapped in cabin,hi,Road Accident,Critical,,Kumar
+619,"Heavy flooding in Coimbatore, water level rising fast, 10 people trapped neighbours are also",en,Flood,Critical,Coimbatore,
+620,"Under-construction building collapsed in Thanjavur, workers trapped since yesterday neighbours are also affected",en,Building Collapse,Critical,Thanjavur,
+621,"Fire in apartment building Vellore, smoke everywhere, need evacuation help not sure what to do",fr,Fire,High,Vellore,
+622,"Snake bite emergency in Thanjavur, Pierre needs antivenom immediately someone call for help",ta,Medical Emergency,High,Thanjavur,Pierre
+623,"Cyclone damaged roofs in Chennai, power lines down, 5 families affected",fr,Cyclone,Medium,Chennai,
+624,"Building collapsed in Trichy, 8 people feared trapped under rubble",en,Building Collapse,Critical,Trichy,
+625,"Earthquake damaged several homes in Vellore, 6 injured, need medical help not sure what to do",fr,Earthquake,High,Vellore,
+626,"flood water entered houses in kolkata, families stuck on rooftops since on friday please respond fast",hi,Flood,Low,,
+627,Pierre met with a bike accident near bleeding heavily,hi,Road Accident,Low,,Pierre
+628,"River overflowing near Chennai, roads submerged, need boat rescue urgently situation getting worse",es,Flood,High,Chennai,
+629,"Earthquake caused wall collapse in Mumbai, person named Carlos trapped under debris situation getting worse",es,Earthquake,Critical,Mumbai,Carlos
+630,"Fire in apartment building Nagpur, smoke everywhere, need evacuation help please respond fast",fr,Fire,High,Nagpur,
+631,"Forest fire spreading near Hyderabad, please send fire brigade immediately",hi,Fire,High,Hyderabad,
+632,"Earthquake caused wall collapse in Nagpur, person named trapped under debris",en,Earthquake,Critical,Nagpur,
+633,"Fire in apartment building Salem, smoke everywhere, evacuation help",hi,Fire,High,Salem,
+634,"Landslide hit hillside village near Salem, 10 houses buried under mud please respond fast",ta,Landslide,Critical,Salem,
+635,"Under-construction building collapsed in Bangalore, workers trapped since today please respond fast",es,Building Collapse,Critical,Bangalore,
+636,"Heavy flooding in Kolkata, water level rising fast, 6 people trapped",fr,Flood,Critical,Kolkata,
+637,"house fire in delhi, carlos and family trapped inside, send fire truck",en,Fire,Critical,,
+638,"Wall of building fell in Pune, Lakshmi injured, ambulance required neighbours are also affected",es,Building Collapse,High,Pune,Lakshmi
+639,"Earthquake damaged several homes in Delhi, 2 injured, need medical help",hi,Earthquake,Critical,Delhi,
+640,"cyclone warning issued for vellore, coastal need shelter immediately",en,Cyclone,High,,
+641,"Wall of building fell in Trichy, Rahul injured, ambulance required situation getting worse",en,Building Collapse,High,Trichy,Rahul
+642,"Earthquake caused wall collapse in Kolkata, person named Elena trapped under debris",hi,Earthquake,Critical,Kolkata,Elena
+643,"Old structure collapsed near Pune market, rescue operation needed",hi,Building Collapse,Critical,Pune,
+644,"Building collapsed in Trichy, 8 people feared trapped under rubble",ta,Building Collapse,Critical,Trichy,
+645,"Heavy wind and rain in Thanjavur due to cyclone, evacuation needed urgently",es,Cyclone,High,Thanjavur,
+646,"Old structure collapsed Kochi market, rescue operation needed",es,Building Collapse,Critical,Kochi,
+647,"Under-construction building collapsed in Madurai, workers trapped since today",en,Building Collapse,Critical,Madurai,
+648,"Heavy flooding in Bangalore, water level rising fast, 10 people trapped please respond fast",es,Flood,Critical,Bangalore,
+649,"River overflowing near Thanjavur, roads submerged, need boat rescue urgently",es,Flood,High,Thanjavur,
+650,"Strong earthquake felt in Nagpur, buildings shaking, people running outside please respond fast",ta,Earthquake,Low,Nagpur,
+651,"Landslide damaged bridge connecting Nagpur, rescue team needed urgently neighbours are also affected",ta,Landslide,High,Nagpur,
+652,"Major road accident near Madurai, vehicles involved, people injured someone call for help",hi,Road Accident,High,Madurai,
+653,"Cyclone damaged roofs in Nagpur, power lines down, 10 families affected",es,Cyclone,Medium,Nagpur,
+654,"Ravi in Trichy is having severe chest pain, need ambulance immediately please respond fast",ta,Medical Emergency,High,Trichy,Ravi
+655,"Major road accident near Hyderabad, 4 vehicles involved, people injured",en,Road Accident,High,Hyderabad,
+656,"David collapsed near Chennai, unconscious, please send medical help fast",es,Medical Emergency,Critical,Chennai,David
+657,"Under-construction building collapsed in Thanjavur, trapped since 2 hours ago please respond fast",fr,Building Collapse,Critical,Thanjavur,
+658,"Landslide hit hillside village near Mumbai, 6 houses buried under mud someone call for",en,Landslide,Critical,Mumbai,
+659,"Landslide damaged bridge connecting Salem, rescue team needed urgently not sure what to do",hi,Landslide,High,Salem,
+660,"Earthquake caused wall collapse in Coimbatore, person named Rahul trapped under debris situation getting worse",fr,Earthquake,Critical,Coimbatore,Rahul
+661,Heavy wind and rain in Coimbatore due to evacuation needed urgently situation getting worse,ta,Cyclone,High,Coimbatore,
+662,"Earthquake damaged homes in Pune, 10 injured, need medical help please respond fast",ta,Earthquake,High,Pune,
+663,"Truck overturned near Vellore, driver Lakshmi trapped in cabin",ta,Road Accident,Critical,Vellore,Lakshmi
+664,"House fire in Salem, Lakshmi and family trapped inside, send fire truck someone call for help",hi,Fire,Critical,Salem,Lakshmi
+665,"Wall of building fell in Chennai, Elena injured, ambulance required please respond fast",hi,Building Collapse,High,Chennai,Elena
+666,"flood water entered houses in mumbai, families stuck on rooftops since 30 minutes ago not sure what to do",es,Flood,Low,,
+667,"Major road accident near Thanjavur, 6 vehicles involved, people injured someone call for help",en,Road Accident,High,Thanjavur,
+668,"Severe waterlogging in Trichy after continuous rain, help needed for elderly",es,Flood,Medium,Trichy,
+669,"Wall of building fell in Hyderabad, Suresh injured, ambulance required please respond fast",en,Building Collapse,High,Hyderabad,Suresh
+670,"Rahul met with a bike accident near Salem, bleeding heavily please respond fast",es,Road Accident,Low,Salem,Rahul
+671,"Landslide blocked the main road near Hyderabad, several vehicles stuck situation getting worse",fr,Landslide,Medium,Hyderabad,
+672,"Landslide hit hillside village near Madurai, 12 houses buried under mud",en,Landslide,Critical,Madurai,
+673,"Fire apartment building Chennai, smoke everywhere, need evacuation help please respond fast",en,Fire,High,Chennai,
+674,"Earthquake damaged several homes in Coimbatore, 10 injured, need medical help neighbours are also affected",en,Earthquake,High,Coimbatore,
+675,"Fire in apartment Thanjavur, smoke everywhere, need evacuation help please respond fast",ta,Fire,High,Thanjavur,
+676,"road accident near Coimbatore, 2 vehicles involved, people injured",fr,Road Accident,High,Coimbatore,
+677,"Landslide blocked the main road near Madurai, several stuck",ta,Landslide,Low,Madurai,
+678,"House fire in Salem, Elena and family inside, send fire truck",hi,Fire,Critical,Salem,Elena
+679,"Massive fire broke out in Chennai market, thick smoke, 12 shops affected",es,Fire,High,Chennai,
+680,"Landslide blocked the main road near Delhi, several vehicles stuck",fr,Landslide,Low,Delhi,
+681,"Bus accident on Kochi highway, several passengers trapped, need rescue",en,Road Accident,Critical,Kochi,
+682,"Ravi in Thanjavur is having severe chest pain, need ambulance immediately",fr,Medical Emergency,High,Thanjavur,Ravi
+683,"Wall of building fell in Salem, Kumar injured, ambulance required",es,Building Collapse,High,Salem,Kumar
+684,"Snake bite emergency in Delhi, Anjali needs antivenom immediately neighbours are also affected",en,Medical Emergency,High,Delhi,Anjali
+685,"Continuous rain triggered landslide in Madurai, Sophie missing since last night situation getting worse",fr,Landslide,Critical,Madurai,Sophie
+686,"Cyclone approaching Madurai coast, strong winds, trees falling since 2 hours ago",hi,Cyclone,Low,Madurai,
+687,"Massive fire broke out in Kochi market, thick smoke, 4 shops affected not sure what to do",es,Fire,High,Kochi,
+688,"Landslide hit hillside village near Vellore, houses buried under mud",en,Landslide,Critical,Vellore,
+689,"Snake bite emergency in Vellore, Carlos needs antivenom immediately",es,Medical Emergency,High,Vellore,Carlos
+690,"River overflowing near roads submerged, need boat rescue urgently neighbours are also affected",es,Flood,High,,
+691,"Cyclone warning issued for Mumbai, coastal residents need shelter immediately neighbours are also affected",ta,Cyclone,High,Mumbai,
+692,"River overflowing near Vellore, roads submerged, need boat rescue urgently",en,Flood,High,Vellore,
+693,"approaching Nagpur coast, strong winds, trees falling since on Friday please respond fast",fr,Cyclone,Low,Nagpur,
+694,"earthquake damaged several homes in chennai, 12 injured, need medical",es,Earthquake,High,,
+695,"Major road accident near Kochi, 10 vehicles involved, people injured",hi,Road Accident,High,Kochi,
+696,"john in trichy is having severe chest pain, need ambulance immediately respond fast",en,Medical Emergency,High,,
+697,"Forest fire spreading near Bangalore, please send fire brigade immediately someone call for help",en,Fire,High,Bangalore,
+698,"Suresh met with a bike accident near Coimbatore, bleeding heavily not sure what to do",ta,Road Accident,Low,Coimbatore,Suresh
+699,"Massive fire broke out in Madurai market, thick smoke, 2 shops affected situation getting worse",en,Fire,High,Madurai,
+700,"Cyclone warning issued for Pune, coastal residents need shelter immediately not sure what to do",es,Cyclone,High,Pune,
+701,"Severe waterlogging in Madurai after continuous rain, help needed for elderly",fr,Flood,Medium,Madurai,
+702,"snake bite emergency in madurai, needs antivenom immediately neighbours are also affected",en,Medical Emergency,High,,
+703,"Heavy wind and rain in Chennai due to cyclone, evacuation needed urgently not sure what to do",en,Cyclone,High,Chennai,
+704,"Cyclone damaged roofs in Madurai, power lines down, 2 families please respond fast",fr,Cyclone,Medium,Madurai,
+705,Pregnant woman in Coimbatore needs urgent hospital transport right now neighbours are also affected,fr,Medical Emergency,High,Coimbatore,
+706,"Major road accident near Mumbai, 4 vehicles involved, people injured situation getting worse",ta,Road Accident,High,Mumbai,
+707,"cyclone approaching nagpur coast, strong winds, trees falling since 2 hours ago someone call for help",fr,Cyclone,Low,,
+708,"Old structure collapsed near Pune market, rescue operation needed someone call for help",ta,Building Collapse,Critical,Pune,
+709,"Wall of building fell in Delhi, Fatima injured, ambulance required",es,Building Collapse,High,Delhi,Fatima
+710,"Flood water entered houses in Madurai, families stuck on rooftops since last night",en,Flood,Low,Madurai,
+711,"Suresh collapsed near Salem, unconscious, please send medical help fast not sure what to do",ta,Medical Emergency,Critical,Salem,Suresh
+712,"Snake bite emergency in Trichy, Divya needs antivenom immediately neighbours are also affected",en,Medical Emergency,High,Trichy,Divya
+713,"Heavy wind and rain in Hyderabad due to cyclone, evacuation needed urgently not sure what to do",es,Cyclone,High,Hyderabad,
+714,"Cyclone approaching Mumbai coast, strong winds, trees falling since today situation getting worse",es,Cyclone,Low,Mumbai,
+715,"Landslide hit hillside village near Pune, 4 houses buried under mud",fr,Landslide,Critical,Pune,
+716,"Major road accident near Trichy, 4 vehicles involved, people injured situation getting worse",hi,Road Accident,High,Trichy,
+717,"Wall of building fell in Bangalore, Pierre injured, ambulance required",ta,Building Collapse,High,Bangalore,Pierre
+718,"River overflowing near Delhi, roads submerged, need boat rescue urgently",ta,Flood,High,Delhi,
+719,"Priya met with a bike accident near Bangalore, bleeding heavily someone call for help",es,Road Accident,Low,Bangalore,Priya
+720,"Truck overturned near Madurai, driver Kumar trapped in cabin situation getting worse",hi,Road Accident,Critical,Madurai,Kumar
+721,"Landslide blocked the main road near Delhi, several vehicles stuck",en,Landslide,Medium,Delhi,
+722,"sophie met with a bike accident near madurai, heavily",fr,Road Accident,Low,,
+723,"Bus accident on Mumbai highway, several passengers trapped, need rescue",en,Road Accident,Critical,Mumbai,
+724,"Heavy wind and rain in Kolkata due to cyclone, evacuation needed urgently situation getting worse",en,Cyclone,High,Kolkata,
+725,"Fire in apartment building Mumbai, smoke everywhere, need evacuation help",en,Fire,High,Mumbai,
+726,"Under-construction building collapsed in Pune, workers trapped since this morning",ta,Building Collapse,Critical,Pune,
+727,"Massive fire broke out in Kolkata market, thick smoke, 2 shops affected not sure what to do",en,Fire,High,Kolkata,
+728,"Cyclone warning issued for Kolkata, coastal residents need shelter immediately please respond fast",en,Cyclone,High,Kolkata,
+729,"Cyclone approaching Trichy coast, strong winds, trees falling since on Friday",en,Cyclone,Low,Trichy,
+730,"landslide blocked the main road near pune, several vehicles stuck",hi,Landslide,Low,,
+731,"Old structure collapsed near Trichy market, rescue operation needed",es,Building Collapse,Critical,Trichy,
+732,"Massive fire broke out in Hyderabad market, thick smoke, 2 shops affected",ta,Fire,Medium,Hyderabad,
+733,"Heavy flooding in Kolkata, water level fast, 6 people trapped",ta,Flood,Critical,Kolkata,
+734,"Cyclone damaged roofs in Mumbai, power lines down, 2 families affected",en,Cyclone,Medium,Mumbai,
+735,"Earthquake damaged several homes in Pune, 4 injured, need medical help please respond fast",hi,Earthquake,High,Pune,
+736,"truck overturned near mumbai, driver john trapped in cabin neighbours are also affected",en,Road Accident,Critical,,
+737,"Cyclone warning issued Madurai, coastal residents need shelter immediately",ta,Cyclone,High,Madurai,
+738,"Earthquake damaged several homes in Coimbatore, 3 injured, need medical help someone call for help",en,Earthquake,High,Coimbatore,
+739,"Building collapsed in Bangalore, 2 people feared trapped under rubble situation getting worse",hi,Building Collapse,Low,Bangalore,
+740,"Aftershocks continuing in Madurai since yesterday, residents to go inside",en,Earthquake,Low,Madurai,
+741,"Flood water entered houses in Thanjavur, families stuck on rooftops since this morning not sure what to do",hi,Flood,Critical,Thanjavur,
+742,"Landslide blocked the main road near Madurai, several vehicles stuck situation getting worse",en,Landslide,Low,Madurai,
+743,"cyclone warning issued for salem, coastal residents shelter immediately",hi,Cyclone,High,,
+744,"House fire in Delhi, Meena and family trapped inside, send fire truck situation getting worse",en,Fire,Critical,Delhi,Meena
+745,"Cyclone damaged roofs in Kolkata, power lines down, 4 families affected not sure what to do",fr,Cyclone,Medium,Kolkata,
+746,"Building collapsed in Bangalore, 10 people feared trapped under rubble",es,Building Collapse,Critical,Bangalore,
+747,"Building collapsed in Nagpur, 10 people feared trapped under rubble not sure what to do",en,Building Collapse,Critical,Nagpur,
+748,"Under-construction building collapsed in Trichy, workers trapped since on Friday please respond fast",fr,Building Collapse,Critical,Trichy,
+749,"Heavy flooding in Vellore, water level rising fast, 8 people trapped",ta,Flood,Critical,Vellore,
+750,"Earthquake caused wall collapse in Thanjavur, person named Anjali trapped under debris someone call for help",fr,Earthquake,Critical,Thanjavur,Anjali
+751,"Snake bite emergency in Hyderabad, Priya needs antivenom immediately",hi,Medical Emergency,High,Hyderabad,Priya
+752,"Flood water entered houses in Coimbatore, families stuck on rooftops since 2 hours ago situation getting worse",en,Flood,Low,Coimbatore,
+753,"Earthquake caused wall collapse in Kolkata, person named David trapped under debris",ta,Earthquake,Critical,Kolkata,David
+754,"Kumar met with a bike accident near Pune, bleeding heavily neighbours are also affected",es,Road Accident,Low,Pune,Kumar
+755,"Landslide blocked the main road near Delhi, several vehicles stuck please respond fast",en,Landslide,Low,Delhi,
+756,"Bus accident on Delhi highway, several passengers trapped, need rescue situation getting worse",hi,Road Accident,Critical,Delhi,
+757,"Cyclone damaged roofs in Madurai, power lines down, 2 families affected not sure what to do",fr,Cyclone,Medium,Madurai,
+758,"Earthquake damaged several homes in Mumbai, 6 injured, need medical help please respond fast",ta,Earthquake,High,Mumbai,
+759,"Strong earthquake felt in Chennai, buildings shaking, people running outside please respond fast",ta,Earthquake,Low,Chennai,
+760,"Landslide damaged bridge connecting Trichy, rescue team needed urgently neighbours are also affected",en,Landslide,High,Trichy,
+761,"Snake bite emergency in Kolkata, Fatima needs antivenom immediately please respond",fr,Medical Emergency,High,Kolkata,Fatima
+762,"Heavy flooding in Vellore, water level rising fast, 6 people trapped",ta,Flood,Critical,Vellore,
+763,"Cyclone approaching Hyderabad coast, strong winds, trees falling since 30 minutes ago",en,Cyclone,Low,Hyderabad,
+764,"Wall of building fell in Pune, Fatima injured, ambulance required",es,Building Collapse,High,Pune,Fatima
+765,"landslide hit hillside village near pune, 4 houses buried under mud someone call for help",fr,Landslide,Critical,,
+766,"Old structure collapsed near Thanjavur market, rescue operation needed situation getting worse",hi,Building Collapse,Critical,Thanjavur,
+767,"Earthquake caused wall collapse in Pune, person named Meena trapped under debris",ta,Earthquake,Critical,Pune,Meena
+768,"Earthquake damaged several homes in Thanjavur, 12 injured, need medical help situation getting worse",hi,Earthquake,High,Thanjavur,
+769,"Truck near Hyderabad, driver Maria trapped in cabin not sure what to do",hi,Road Accident,Critical,Hyderabad,Maria
+770,"cyclone approaching kochi coast, strong winds, trees falling since 30 minutes ago",ta,Cyclone,Low,,
+771,"Truck overturned near Bangalore, driver Suresh trapped in cabin please respond fast",en,Road Accident,Critical,Bangalore,Suresh
+772,"Landslide hit hillside village near Trichy, 12 houses buried under mud someone call for help",en,Landslide,Critical,Trichy,
+773,"Carlos collapsed near Salem, unconscious, please send medical help fast situation getting worse",fr,Medical Emergency,Critical,Salem,Carlos
+774,Pregnant woman in Vellore needs urgent hospital transport right now someone call for help,es,Medical Emergency,High,Vellore,
+775,"Massive fire broke out in Salem market, thick smoke, 10 shops affected",ta,Fire,High,Salem,
+776,"Continuous rain triggered landslide in Pune, Elena missing since on Monday please fast",en,Landslide,Critical,Pune,Elena
+777,"Landslide damaged bridge connecting Hyderabad, rescue team needed urgently",es,Landslide,High,Hyderabad,
+778,"River overflowing near Pune, roads submerged, need boat rescue urgently",en,Flood,High,Pune,
+779,"Old structure collapsed near Chennai market, rescue operation needed",en,Building Collapse,Critical,Chennai,
+780,"Cyclone warning issued for Trichy, coastal residents need shelter immediately please respond fast",en,Cyclone,High,Trichy,
+781,"Under-construction building collapsed in Chennai, workers trapped since yesterday please respond fast",en,Building Collapse,Critical,Chennai,
+782,"Under-construction building collapsed in Pune, workers trapped since on Monday",en,Building Collapse,Critical,Pune,
+783,"Arjun in Pune is having severe chest pain, need ambulance immediately",ta,Medical Emergency,High,Pune,Arjun
+784,"Earthquake damaged several homes in Hyderabad, 3 injured, need medical help",en,Earthquake,High,Hyderabad,
+785,"Cyclone damaged roofs in Mumbai, power lines down, 6 families affected please respond fast",ta,Cyclone,Medium,Mumbai,
+786,"Flood water entered houses in Coimbatore, families on rooftops since 2 hours ago",fr,Flood,Low,Coimbatore,
+787,Pregnant woman in Pune needs urgent hospital transport right now,fr,Medical Emergency,High,Pune,
+788,"Heavy wind and rain in Coimbatore due to cyclone, evacuation needed urgently not sure what to do",ta,Cyclone,High,Coimbatore,
+789,"Landslide damaged bridge connecting Pune, rescue team needed urgently please respond fast",hi,Landslide,High,Pune,
+790,Pregnant woman in Kolkata needs urgent hospital transport right,ta,Medical Emergency,High,Kolkata,
+791,"Major road accident near Bangalore, 3 vehicles involved, people injured not sure to do",fr,Road Accident,Critical,Bangalore,
+792,"Cyclone warning issued for Mumbai, residents need shelter immediately",hi,Cyclone,High,Mumbai,
+793,"Strong earthquake felt in Delhi, buildings shaking, people running outside neighbours are also affected",hi,Earthquake,Low,Delhi,
+794,"Truck overturned near Kochi, driver Carlos trapped in cabin someone call for help",en,Road Accident,Critical,Kochi,Carlos
+795,Pregnant woman in Hyderabad needs urgent hospital transport right now,en,Medical Emergency,High,Hyderabad,
+796,"Bus accident on Coimbatore highway, several passengers trapped, need rescue neighbours are also affected",en,Road Accident,Critical,Coimbatore,
+797,"earthquake damaged several homes in kochi, 2 injured, need medical help",hi,Earthquake,High,,
+798,"Fire in apartment building Trichy, smoke everywhere, need evacuation help situation getting worse",hi,Fire,High,Trichy,
+799,Pregnant woman in Pune needs urgent hospital transport right now situation getting worse,en,Medical Emergency,High,Pune,
+800,"Severe waterlogging in Trichy after continuous rain, help needed for elderly please respond fast",es,Flood,Medium,Trichy,
+801,"Aftershocks continuing in Coimbatore since 2 hours ago, residents scared to go situation getting worse",fr,Earthquake,Low,Coimbatore,
+802,"Severe waterlogging in Thanjavur after continuous rain, help needed for elderly",en,Flood,Medium,Thanjavur,
+803,"Fire in apartment building Bangalore, smoke everywhere, need evacuation help",ta,Fire,High,Bangalore,
+804,"Building collapsed in Delhi, 6 people feared trapped under rubble",ta,Building Collapse,Critical,Delhi,
+805,"landslide blocked the main road near trichy, several vehicles stuck neighbours are also affected",hi,Landslide,Low,,
+806,"Earthquake damaged several homes in Coimbatore, 2 injured, need medical help",en,Earthquake,High,Coimbatore,
+807,"Under-construction building collapsed in Mumbai, workers trapped since on Friday someone call for help",ta,Building Collapse,Critical,Mumbai,
+808,"bus accident on mumbai highway, several passengers trapped, need rescue someone call for help",en,Road Accident,Critical,,
+809,"snake bite emergency in kochi, divya needs antivenom immediately not sure what to do",hi,Medical Emergency,High,,
+810,"House fire in Coimbatore, Carlos and family trapped inside, send fire truck",hi,Fire,Critical,Coimbatore,Carlos
+811,"House fire in Vellore, Maria and family trapped inside, send fire truck someone call for help",en,Fire,Critical,Vellore,Maria
+812,"Flood water entered houses in Mumbai, families stuck on rooftops since on Monday not sure what to do",ta,Flood,Low,Mumbai,
+813,"Severe waterlogging in Hyderabad after continuous rain, help needed for elderly not sure what to do",en,Flood,Medium,Hyderabad,
+814,"Flood water entered houses in Chennai, families stuck on rooftops since 30 minutes ago situation getting worse",ta,Flood,Low,Chennai,
+815,"Landslide damaged bridge connecting Bangalore, rescue team needed urgently please respond fast",en,Landslide,High,Bangalore,
+816,"maria collapsed near pune, unconscious, please send medical help fast situation getting worse",hi,Medical Emergency,Critical,,
+817,"Strong earthquake felt in Kochi, buildings shaking, people outside please respond fast",ta,Earthquake,Low,Kochi,
+818,"Cyclone damaged roofs in Chennai, power lines down, 4 families affected not sure what to do",hi,Cyclone,Medium,Chennai,
+819,"Divya collapsed near Trichy, unconscious, please send medical help fast",en,Medical Emergency,Critical,Trichy,Divya
+820,"Landslide hit hillside village near Coimbatore, 2 houses buried under mud",en,Landslide,Critical,Coimbatore,
+821,"Wall of building fell in Salem, Arjun injured, ambulance required situation getting worse",hi,Building Collapse,High,Salem,Arjun
+822,"under-construction building collapsed in coimbatore, workers trapped since 2 hours ago please respond fast",en,Building Collapse,Critical,,
+823,"Forest fire spreading near Thanjavur, please send fire brigade immediately situation getting worse",hi,Fire,High,Thanjavur,
+824,"suresh collapsed near mumbai, unconscious, please send medical help fast not sure what to do",es,Medical Emergency,Critical,,
+825,"Heavy wind and rain in Delhi due to cyclone, evacuation needed urgently",hi,Cyclone,High,Delhi,
+826,"Cyclone warning issued for Madurai, coastal residents need shelter immediately",ta,Cyclone,High,Madurai,
+827,"Building collapsed in Trichy, 4 people feared trapped under rubble someone call for help",hi,Building Collapse,Critical,Trichy,
+828,"River overflowing near Delhi, roads submerged, boat rescue urgently please respond fast",fr,Flood,High,Delhi,
+829,"damaged several homes in Pune, 2 injured, need medical help",en,Earthquake,High,Pune,
+830,"Cyclone approaching Coimbatore coast, strong winds, trees falling since today please respond fast",en,Cyclone,Low,Coimbatore,
+831,"Fire in apartment building Nagpur, smoke everywhere, need evacuation help neighbours are also affected",en,Fire,High,Nagpur,
+832,"Strong earthquake felt in Vellore, buildings shaking, people running outside please respond fast",fr,Earthquake,Low,Vellore,
+833,"Flood water entered houses in Kolkata, families stuck on rooftops since 30 minutes ago not sure what to do",fr,Flood,Low,Kolkata,
+834,"Earthquake caused wall collapse in Delhi, person named Maria trapped under debris not sure what to do",fr,Earthquake,Critical,Delhi,Maria
+835,"Strong earthquake felt in Kochi, buildings shaking, people running outside neighbours are also affected",hi,Earthquake,Low,Kochi,
+836,"Continuous rain triggered landslide in Bangalore, Carlos missing since on Friday neighbours are also affected",en,Landslide,Critical,Bangalore,Carlos
+837,"Flood water entered houses in Nagpur, families stuck on rooftops since this morning",es,Flood,Low,Nagpur,
+838,"Earthquake caused wall collapse in Pune, person named Suresh trapped under debris neighbours are also affected",en,Earthquake,Critical,Pune,Suresh
+839,"Truck overturned near Pune, driver Pierre trapped in cabin situation getting worse",ta,Road Accident,Critical,Pune,Pierre
+840,"cyclone warning issued for mumbai, coastal residents need shelter immediately please respond fast",en,Cyclone,High,,
+841,"Old structure collapsed near Thanjavur market, rescue operation needed neighbours are also affected",en,Building Collapse,Critical,Thanjavur,
+842,"Fire in apartment building Madurai, smoke everywhere, need evacuation help someone for help",en,Fire,High,Madurai,
+843,"Kumar met with a bike near Chennai, bleeding heavily someone call for help",en,Road Accident,Low,Chennai,Kumar
+844,"Bus accident on Nagpur highway, several passengers trapped, need rescue not sure what to do",hi,Road Accident,Critical,Nagpur,
+845,"river overflowing near mumbai, roads submerged, need boat rescue urgently someone call for help",hi,Flood,High,,
+846,"under-construction building collapsed in thanjavur, workers trapped since on monday someone call for help",fr,Building Collapse,Critical,,
+847,"Cyclone warning issued for Kochi, coastal residents need shelter immediately someone call for help",en,Cyclone,High,Kochi,
+848,"Wall of building fell in Bangalore, Arjun injured, ambulance required",en,Building Collapse,High,Bangalore,Arjun
+849,"Aftershocks continuing in Kochi since last night, residents scared to go inside not sure what to do",en,Earthquake,Low,Kochi,
+850,"Landslide hillside village near Salem, 5 houses buried under mud not sure what to do",en,Landslide,Critical,Salem,
+851,"Fatima in Coimbatore is having severe chest pain, need ambulance immediately",en,Medical Emergency,High,Coimbatore,Fatima
+852,"Massive fire broke out in Bangalore market, thick smoke, 10 shops affected call for help",en,Fire,High,Bangalore,
+853,"House fire in Hyderabad, Kumar and family trapped inside, send fire truck situation getting worse",es,Fire,Critical,Hyderabad,Kumar
+854,"Forest fire spreading near Trichy, please send fire brigade immediately neighbours are also affected",hi,Fire,High,Trichy,
+855,"Bus accident on Madurai highway, several passengers trapped, need rescue please respond fast",hi,Road Accident,Critical,Madurai,
+856,"Earthquake caused wall collapse in Mumbai, person named Pierre trapped under debris not sure what to do",en,Earthquake,Critical,Mumbai,Pierre
+857,"Fire in apartment building Coimbatore, smoke everywhere, need evacuation help someone call for help",ta,Fire,High,Coimbatore,
+858,"Landslide damaged bridge connecting Kolkata, rescue team needed urgently neighbours are also affected",en,Landslide,High,Kolkata,
+859,"Heavy flooding in Pune, water level rising fast, 5 people trapped someone call for help",ta,Flood,Critical,Pune,
+860,"Earthquake damaged several homes in Kolkata, 12 injured, need medical help",en,Earthquake,High,Kolkata,
+861,"Massive fire broke out in Thanjavur market, thick smoke, 10 shops affected",ta,Fire,High,Thanjavur,
+862,Building collapsed in 12 people feared trapped under rubble,en,Building Collapse,Critical,,
+863,"Snake bite emergency in Trichy, Priya needs antivenom immediately",hi,Medical Emergency,High,Trichy,Priya
+864,"Earthquake damaged several homes in Mumbai, 6 injured, need medical help not sure what to do",en,Earthquake,High,Mumbai,
+865,"Landslide hit hillside village near Vellore, 2 houses buried under mud neighbours are also affected",fr,Landslide,Critical,Vellore,
+866,"Wall of building fell in Salem, Divya injured, ambulance required",en,Building Collapse,High,Salem,Divya
+867,"Forest fire spreading near Hyderabad, please send fire brigade immediately",es,Fire,High,Hyderabad,
+868,"Rahul met with a bike accident near Salem, bleeding heavily",ta,Road Accident,Medium,Salem,Rahul
+869,"Fire in apartment building Madurai, smoke everywhere, need evacuation help",en,Fire,High,Madurai,
+870,"Earthquake caused wall collapse in Hyderabad, person named Divya trapped under debris neighbours are also affected",es,Earthquake,Critical,Hyderabad,Divya
+871,"Earthquake damaged several homes in Trichy, 10 injured, need medical help someone call for help",hi,Earthquake,High,Trichy,
+872,"Kumar met with a bike accident near Pune, bleeding heavily please respond fast",ta,Road Accident,Low,Pune,Kumar
+873,"Earthquake caused wall collapse in Salem, person named Sophie trapped under debris situation getting worse",en,Earthquake,Critical,Salem,Sophie
+874,"Building collapsed in Bangalore, 12 people feared trapped under rubble",en,Building Collapse,Critical,Bangalore,
+875,"rain triggered landslide in Vellore, Maria missing since today",es,Landslide,Critical,Vellore,Maria
+876,"Maria collapsed near Delhi, unconscious, please send medical help fast situation getting worse",fr,Medical Emergency,Critical,Delhi,Maria
+877,"Bus accident on Hyderabad highway, several passengers trapped, need rescue neighbours are also affected",es,Road Accident,Critical,Hyderabad,
+878,"earthquake caused wall collapse in vellore, person named elena trapped under debris neighbours are also affected",hi,Earthquake,Critical,,
+879,"Massive fire broke out in Kochi market, thick smoke, 3 shops affected someone call for help",en,Fire,High,Kochi,
+880,"Heavy wind and rain in Madurai due to cyclone, evacuation needed urgently",hi,Cyclone,High,Madurai,
+881,"Strong earthquake felt in Trichy, buildings shaking, people running outside not sure what to do",es,Earthquake,Low,Trichy,
+882,"Cyclone warning issued for Mumbai, coastal residents need shelter immediately please respond fast",ta,Cyclone,High,Mumbai,
+883,"Snake bite emergency in Nagpur, Meena needs antivenom immediately",es,Medical Emergency,High,Nagpur,Meena
+884,"Aftershocks continuing in Bangalore since today, residents scared to go inside someone call for help",hi,Earthquake,Low,Bangalore,
+885,"Flood water entered houses in Madurai, families stuck on rooftops since last night",fr,Flood,Low,Madurai,
+886,"Continuous rain triggered landslide in Trichy, Kumar missing since 30 minutes ago not sure what to do",fr,Landslide,Critical,Trichy,Kumar
+887,"Heavy wind and rain in Delhi due to cyclone, evacuation needed urgently please respond fast",es,Cyclone,High,Delhi,
+888,"Wall of building fell in Thanjavur, Divya injured, ambulance required neighbours are also affected",hi,Building Collapse,High,Thanjavur,Divya
+889,"Priya in Trichy is having severe chest pain, need ambulance immediately",fr,Medical Emergency,High,Trichy,Priya
+890,"Snake bite emergency in Chennai, Meena needs antivenom immediately",hi,Medical Emergency,High,Chennai,Meena
+891,Pregnant woman in Nagpur needs urgent hospital transport right now neighbours are also affected,hi,Medical Emergency,High,Nagpur,
+892,Pregnant woman in Salem needs urgent hospital transport right now situation getting worse,hi,Medical Emergency,High,Salem,
+893,"Earthquake caused wall collapse in Hyderabad, person named Pierre trapped under debris situation getting worse",fr,Earthquake,Critical,Hyderabad,Pierre
+894,"major road accident near mumbai, 12 vehicles involved, people injured",fr,Road Accident,Low,,
+895,"landslide hit hillside village near vellore, 10 houses buried under mud neighbours are also affected",es,Landslide,Critical,,
+896,"continuous rain triggered landslide in bangalore, arjun missing since yesterday neighbours are also affected",fr,Landslide,Critical,,
+897,"collapsed in Vellore, 8 people feared trapped under rubble situation getting worse",fr,Building Collapse,Critical,Vellore,
+898,"Bus accident on Delhi highway, several passengers trapped, need rescue",es,Road Accident,Critical,Delhi,
+899,"Strong earthquake felt in Coimbatore, buildings shaking, people running outside",ta,Earthquake,Low,Coimbatore,
+900,"Forest fire spreading near Vellore, please send fire brigade immediately please respond fast",ta,Fire,High,Vellore,
+901,"Continuous rain triggered landslide in Nagpur, Maria missing since yesterday not sure what to do",es,Landslide,Critical,Nagpur,Maria
+902,"Cyclone damaged roofs in Pune, power lines down, 3 families affected",ta,Cyclone,Medium,Pune,
+903,"Building collapsed in Bangalore, 5 people feared trapped under rubble not sure what to do",en,Building Collapse,Critical,Bangalore,
+904,"House fire in Thanjavur, Arjun and family trapped inside, send fire truck situation getting worse",en,Fire,Critical,Thanjavur,Arjun
+905,"Landslide blocked the main road near Delhi, vehicles stuck situation getting worse",en,Landslide,Critical,Delhi,
+906,"Strong earthquake felt in Bangalore, buildings shaking, people running outside",en,Earthquake,Low,Bangalore,
+907,"Strong earthquake felt in Hyderabad, buildings shaking, people running outside not sure what to do",hi,Earthquake,Low,Hyderabad,
+908,"road accident near Hyderabad, 2 vehicles involved, people injured situation getting worse",ta,Road Accident,High,Hyderabad,
+909,"Landslide hit hillside village near Thanjavur, 10 houses buried under mud please respond fast",ta,Landslide,Critical,Thanjavur,
+910,"House fire in Bangalore, Sophie and family trapped inside, send fire truck please respond fast",es,Fire,Critical,Bangalore,Sophie
+911,"Cyclone damaged roofs in Bangalore, power lines down, 3 families affected neighbours are also affected",ta,Cyclone,Critical,Bangalore,
+912,"Flood water entered houses in Coimbatore, families stuck on rooftops since today neighbours are also affected",en,Flood,Low,Coimbatore,
+913,"Strong earthquake felt in Vellore, buildings shaking, people running outside someone call for help",es,Earthquake,Low,Vellore,
+914,"Snake bite emergency in Trichy, Elena needs antivenom immediately",en,Medical Emergency,High,Trichy,Elena
+915,"Snake bite emergency in Mumbai, David needs antivenom immediately someone call for help",en,Medical Emergency,High,Mumbai,David
+916,"Building collapsed in Madurai, 10 people feared trapped under rubble please respond fast",fr,Building Collapse,Critical,Madurai,
+917,"Old structure collapsed near Coimbatore market, rescue operation needed",hi,Building Collapse,Critical,Coimbatore,
+918,"Fatima in Kolkata is having severe chest pain, need ambulance immediately please respond fast",ta,Medical Emergency,High,Kolkata,Fatima
+919,forest fire spreading near please send fire brigade immediately not sure what to do,en,Fire,High,,
+920,"strong earthquake felt in trichy, buildings shaking, people running outside neighbours are also affected",en,Earthquake,Low,,
+921,"landslide hit hillside village near mumbai, 6 houses buried under mud",ta,Landslide,Critical,,
+922,Pregnant woman in Nagpur needs urgent hospital transport right now please respond fast,en,Medical Emergency,High,Nagpur,
+923,"John met with a bike accident near Nagpur, bleeding heavily someone call for help",en,Road Accident,Low,Nagpur,John
+924,"Old structure collapsed near Kolkata market, rescue operation needed",en,Building Collapse,Critical,Kolkata,
+925,"snake bite emergency in trichy, divya needs antivenom immediately",en,Medical Emergency,High,,
+926,"Forest fire spreading near Nagpur, please send fire brigade immediately someone call for help",en,Fire,High,Nagpur,
+927,"Bus accident on Kolkata several passengers trapped, need rescue",en,Road Accident,Critical,Kolkata,
+928,"Aftershocks continuing in Kochi since today, residents scared to go inside please respond fast",en,Earthquake,Low,Kochi,
+929,"Cyclone damaged roofs in Salem, power lines down, 12 families affected someone call for help",en,Cyclone,Medium,Salem,
+930,"Old structure collapsed near Mumbai market, rescue operation needed please respond fast",en,Building Collapse,Critical,Mumbai,
+931,"Wall of building fell in Chennai, Sophie injured, ambulance required",hi,Building Collapse,High,Chennai,Sophie
+932,"Building collapsed in Kolkata, 4 people feared trapped under rubble someone call for help",es,Building Collapse,Critical,Kolkata,
+933,"Cyclone warning issued for Trichy, coastal residents need shelter immediately",es,Cyclone,High,Trichy,
+934,"Wall of building fell in Vellore, Suresh injured, ambulance required not sure what to do",en,Building Collapse,High,Vellore,Suresh
+935,"Building collapsed in Thanjavur, 8 people feared trapped under rubble",es,Building Collapse,Critical,Thanjavur,
+936,"Heavy wind and rain in Thanjavur due to cyclone, evacuation needed urgently someone call for help",en,Cyclone,High,Thanjavur,
+937,"Forest fire spreading near Nagpur, please send fire brigade immediately",hi,Fire,High,Nagpur,
+938,"Landslide hit hillside village near Pune, 8 houses buried under mud please respond",hi,Landslide,Critical,Pune,
+939,"Wall of building fell in Bangalore, Maria injured, ambulance required someone call for help",fr,Building Collapse,High,Bangalore,Maria
+940,"River overflowing near Mumbai, roads submerged, need boat rescue urgently neighbours are also affected",en,Flood,High,Mumbai,
+941,"Wall of building fell in Delhi, John injured, ambulance required",en,Building Collapse,High,Delhi,John
+942,"Cyclone approaching Kochi coast, strong winds, trees falling since last night",ta,Cyclone,Low,Kochi,
+943,"Aftershocks continuing in Delhi since last night, residents scared to go inside",es,Earthquake,Low,Delhi,
+944,"Earthquake caused wall collapse in Kolkata, person named Kumar trapped under debris someone call for help",en,Earthquake,Critical,Kolkata,Kumar
+945,"Carlos in Madurai is having severe chest pain, need ambulance immediately neighbours are affected",ta,Medical Emergency,High,Madurai,Carlos
+946,"Heavy wind and rain in Kolkata due to cyclone, evacuation needed urgently",en,Cyclone,High,Kolkata,
+947,"Priya met with a bike accident near Madurai, bleeding heavily situation getting worse",hi,Road Accident,Low,Madurai,Priya
+948,"Flood water entered houses in Trichy, families stuck on rooftops since 30 minutes ago please respond fast",en,Flood,Low,Trichy,
+949,"Old structure collapsed near Coimbatore market, rescue operation needed",en,Building Collapse,Critical,Coimbatore,
+950,"Cyclone approaching Thanjavur coast, strong winds, trees falling since last night",en,Cyclone,Low,Thanjavur,
+951,"Bus accident on Kolkata highway, several passengers trapped, need rescue please respond fast",ta,Road Accident,Critical,Kolkata,
+952,"Heavy wind and rain in Kolkata due to cyclone, evacuation needed urgently please respond fast",fr,Cyclone,High,Kolkata,
+953,"Heavy flooding Vellore, water level rising fast, 5 people trapped",hi,Flood,Critical,Vellore,
+954,Heavy wind and rain in Delhi due to evacuation needed urgently please respond fast,es,Cyclone,High,Delhi,
+955,"Cyclone warning issued for Pune, coastal residents need shelter immediately situation getting worse",ta,Cyclone,High,Pune,
+956,"River overflowing near Thanjavur, roads submerged, need boat rescue urgently please respond fast",en,Flood,High,Thanjavur,
+957,"Cyclone approaching Bangalore coast, strong winds, trees falling since last night",ta,Cyclone,Low,Bangalore,
+958,"River overflowing near Coimbatore, roads submerged, need boat rescue urgently",fr,Flood,High,Coimbatore,
+959,"Truck overturned near Chennai, driver John trapped in cabin someone call for help",en,Road Accident,Critical,Chennai,John
+960,"Carlos in Thanjavur is having severe chest pain, need ambulance immediately",ta,Medical Emergency,High,Thanjavur,Carlos
+961,"Heavy flooding in Salem, water level rising fast, 10 people trapped",en,Flood,Critical,Salem,
+962,"Truck overturned near Pune, driver Suresh trapped in cabin not sure what to do",en,Road Accident,Critical,Pune,Suresh
+963,"Continuous rain triggered landslide in Kochi, Priya missing since 2 hours ago neighbours are also affected",es,Landslide,Critical,Kochi,Priya
+964,"Heavy flooding in Coimbatore, water level rising fast, 8 people trapped",fr,Flood,Critical,Coimbatore,
+965,"Old structure collapsed near Kolkata market, rescue operation needed neighbours are also affected",es,Building Collapse,Critical,Kolkata,
+966,"Landslide damaged bridge connecting Delhi, rescue team needed urgently",ta,Landslide,High,Delhi,
+967,"Under-construction building collapsed in Chennai, workers trapped since 2 hours ago sure what to do",en,Building Collapse,Critical,Chennai,
+968,"Strong earthquake felt in Salem, buildings shaking, people running outside situation getting worse",hi,Earthquake,Low,Salem,
+969,"Earthquake caused wall collapse in Thanjavur, person named Suresh trapped under debris neighbours are also affected",fr,Earthquake,Critical,Thanjavur,Suresh
+970,"Snake bite emergency in Coimbatore, Meena needs antivenom immediately",en,Medical Emergency,High,Coimbatore,Meena
+971,"Heavy wind and rain in Salem due to cyclone, evacuation needed urgently",hi,Cyclone,High,Salem,
+972,"Earthquake damaged several homes in Kochi, 10 injured, need medical help",en,Earthquake,High,Kochi,
+973,"Heavy wind and rain in Thanjavur due to cyclone, evacuation needed urgently neighbours are also affected",hi,Cyclone,High,Thanjavur,
+974,"Wall of building fell in Bangalore, Fatima injured, ambulance required neighbours are also affected",ta,Building Collapse,High,Bangalore,Fatima
+975,"House fire in Nagpur, Suresh and family trapped inside, send fire truck not sure what to do",ta,Fire,Critical,Nagpur,Suresh
+976,"Fire in apartment building Hyderabad, smoke everywhere, need evacuation help",hi,Fire,High,Hyderabad,
+977,"Building collapsed in Delhi, 2 people feared trapped under rubble someone call for help",fr,Building Collapse,Critical,Delhi,
+978,"Elena met with a bike accident near Delhi, bleeding heavily not sure what to",hi,Road Accident,Low,Delhi,Elena
+979,"Strong earthquake felt in Mumbai, buildings shaking, people running outside",hi,Earthquake,Low,Mumbai,
+980,"Massive fire broke out in Delhi market, thick smoke, 2 shops affected",en,Fire,High,Delhi,
+981,"Earthquake damaged several homes in Coimbatore, 12 injured, need medical help",fr,Earthquake,High,Coimbatore,
+982,"Flood water entered houses in Kolkata, families stuck on rooftops since yesterday neighbours are also affected",ta,Flood,Low,Kolkata,
+983,"Forest fire spreading Thanjavur, please send fire brigade immediately not sure what to do",en,Fire,High,Thanjavur,
+984,"Flood water entered houses in Chennai, families stuck on rooftops since 30 minutes ago situation getting worse",ta,Flood,Low,Chennai,
+985,"fire in apartment building coimbatore, smoke everywhere, need evacuation help",en,Fire,High,,
+986,"Aftershocks continuing in Nagpur since yesterday, residents scared to go inside neighbours are also affected",es,Earthquake,Low,Nagpur,
+987,"Aftershocks continuing in Thanjavur since yesterday, residents scared to go inside neighbours are also affected",hi,Earthquake,Low,Thanjavur,
+988,"Flood water entered houses in Delhi, families stuck on rooftops since last night not sure what to do",ta,Flood,Low,Delhi,
+989,"House fire in Hyderabad, David and family trapped inside, send fire truck",hi,Fire,Critical,Hyderabad,David
+990,"Severe waterlogging in Pune after continuous rain, help needed for elderly neighbours are also affected",en,Flood,Medium,Pune,
+991,"Heavy wind and rain in Hyderabad due to cyclone, evacuation needed urgently neighbours are also affected",fr,Cyclone,High,Hyderabad,
+992,"Landslide damaged bridge connecting Trichy, rescue team needed urgently please respond fast",en,Landslide,High,Trichy,
+993,"Bus accident on Nagpur several passengers trapped, need rescue situation getting worse",es,Road Accident,Critical,Nagpur,
+994,"River overflowing near Coimbatore, roads submerged, need boat rescue urgently",ta,Flood,High,Coimbatore,
+995,"Heavy wind and rain in Hyderabad due to cyclone, evacuation needed urgently",es,Cyclone,High,Hyderabad,
+996,"Aftershocks continuing in Delhi since on Monday, residents scared to go inside please respond fast",es,Earthquake,Low,Delhi,
+997,"Strong earthquake felt in Salem, buildings shaking, people running outside someone call for help",en,Earthquake,Low,Salem,
+998,"fire spreading near Bangalore, please send fire brigade immediately",ta,Fire,High,Bangalore,
+999,"Building collapsed in Delhi, 6 people feared trapped under rubble situation getting worse",es,Building Collapse,Low,Delhi,
+1000,"Truck overturned near Delhi, driver Kumar trapped in cabin please respond fast",en,Road Accident,Critical,Delhi,Kumar
+1001,"Massive fire broke out in Pune market, thick smoke, 10 shops affected neighbours are also affected",ta,Fire,High,Pune,
+1002,"Aftershocks continuing in Hyderabad since 2 ago, residents scared to go inside",fr,Earthquake,Low,Hyderabad,
+1003,"Cyclone warning issued for Chennai, coastal residents need shelter immediately please respond fast",ta,Cyclone,Medium,Chennai,
+1004,"Building collapsed Hyderabad, 6 people feared trapped under rubble please respond fast",hi,Building Collapse,Critical,Hyderabad,
+1005,"Earthquake damaged several homes in Kolkata, 12 injured, need medical help",en,Earthquake,High,Kolkata,
+1006,"Massive fire broke out in Bangalore market, thick smoke, 10 shops affected situation getting worse",en,Fire,High,Bangalore,
+1007,"heavy wind and rain in trichy due to cyclone, evacuation needed urgently please respond fast",en,Cyclone,High,,
+1008,"Earthquake damaged several homes in Madurai, 12 injured, need medical help",en,Earthquake,High,Madurai,
+1009,"Truck overturned near Chennai, driver Anjali trapped in cabin not sure what to do",en,Road Accident,Critical,Chennai,Anjali
+1010,Pregnant woman in Delhi needs urgent hospital transport right now neighbours are also affected,fr,Medical Emergency,High,Delhi,
+1011,"House fire in Salem, Ravi and family trapped inside, send fire truck",en,Fire,Critical,Salem,Ravi
+1012,"Cyclone damaged roofs in Pune, power lines down, 3 affected neighbours are also affected",en,Cyclone,Medium,Pune,
+1013,"Heavy wind and rain in Hyderabad due to cyclone, evacuation needed urgently not sure what to do",en,Cyclone,High,Hyderabad,
+1014,"Kumar met with a bike accident near Salem, bleeding heavily please respond fast",en,Road Accident,Low,Salem,Kumar
+1015,"Lakshmi met with bike accident near Kochi, bleeding heavily someone call for help",es,Road Accident,Low,Kochi,Lakshmi
+1016,"house fire in delhi, ravi and family trapped inside, send fire truck please respond fast",ta,Fire,Critical,,
+1017,"Under-construction building collapsed in Coimbatore, workers trapped since on Monday",es,Building Collapse,Critical,Coimbatore,
+1018,"Meena in Thanjavur is having severe chest pain, need ambulance immediately someone call for help",es,Medical Emergency,High,Thanjavur,Meena
+1019,"Earthquake caused wall collapse in Hyderabad, person named Meena trapped under debris neighbours are also affected",ta,Earthquake,Critical,Hyderabad,Meena
+1020,"Cyclone warning issued for Bangalore, coastal residents need shelter immediately",en,Cyclone,High,Bangalore,
+1021,"Carlos collapsed near Salem, unconscious, please send medical help fast not sure what to do",hi,Medical Emergency,Critical,Salem,Carlos
+1022,"Landslide blocked the main road near Kochi, several vehicles stuck",hi,Landslide,Low,Kochi,
+1023,"Strong earthquake felt in Bangalore, buildings shaking, people running outside someone call for",hi,Earthquake,Low,Bangalore,
+1024,"River overflowing near Mumbai, roads submerged, need boat rescue urgently neighbours are also affected",hi,Flood,High,Mumbai,
+1025,"Divya in Hyderabad is having severe chest pain, need ambulance immediately please respond fast",en,Medical Emergency,High,Hyderabad,Divya
+1026,"Fire in apartment building Chennai, smoke everywhere, need evacuation help someone call for help",en,Fire,High,Chennai,
+1027,"Kumar Bangalore is having severe chest pain, need ambulance immediately please respond fast",en,Medical Emergency,High,Bangalore,Kumar
+1028,"Flood water entered houses in Nagpur, families stuck on rooftops since minutes ago",hi,Flood,Low,Nagpur,
+1029,"Cyclone damaged roofs in Coimbatore, power lines down, 2 families affected someone call for help",es,Cyclone,Medium,Coimbatore,
+1030,"Landslide hit hillside village near Delhi, 6 houses buried under mud sure what to do",hi,Landslide,Critical,Delhi,
+1031,"Old structure collapsed near Chennai market, rescue operation needed",en,Building Collapse,Critical,Chennai,
+1032,"Landslide blocked the main road near Salem, several vehicles stuck",hi,Landslide,Low,Salem,
+1033,"Old structure collapsed near Trichy market, rescue operation needed",fr,Building Collapse,Critical,Trichy,
+1034,"Fire in apartment building Trichy, smoke everywhere, need evacuation help someone call for help",en,Fire,High,Trichy,
+1035,"Severe waterlogging in Nagpur after continuous rain, help needed for elderly",en,Flood,Medium,Nagpur,
+1036,"David met with a bike accident near Chennai, bleeding heavily",hi,Road Accident,Low,Chennai,David
+1037,"House fire in Thanjavur, David and family trapped inside, send truck someone call for help",en,Fire,Critical,Thanjavur,David
+1038,"Forest fire spreading near Trichy, please send fire brigade immediately",en,Fire,High,Trichy,
+1039,"House fire in Vellore, Divya and family trapped inside, send fire truck situation getting worse",en,Fire,Critical,Vellore,Divya
+1040,"Forest fire spreading near Mumbai, please send fire brigade immediately situation getting worse",hi,Fire,High,Mumbai,
+1041,"Earthquake caused wall collapse in Delhi, person named Suresh trapped under debris neighbours are also affected",ta,Earthquake,Critical,Delhi,Suresh
+1042,"Major road accident near Bangalore, 12 vehicles involved, people injured someone call for help",es,Road Accident,High,Bangalore,
+1043,"Major road accident near 5 vehicles involved, people injured situation getting worse",hi,Road Accident,High,,
+1044,"Bus accident on Coimbatore highway, several passengers trapped, need rescue",ta,Road Accident,Critical,Coimbatore,
+1045,"earthquake caused wall collapse in nagpur, person named fatima trapped under debris",hi,Earthquake,Critical,,
+1046,"Truck overturned near Chennai, driver Arjun trapped in cabin",hi,Road Accident,Critical,Chennai,Arjun
+1047,"Under-construction building collapsed in Nagpur, workers trapped since 30 minutes ago please respond fast",ta,Building Collapse,Critical,Nagpur,
+1048,"Earthquake damaged several homes in Chennai, 8 injured, need medical help",ta,Earthquake,Critical,Chennai,
+1049,"River overflowing near Coimbatore, roads submerged, need boat rescue urgently",en,Flood,High,Coimbatore,
+1050,"Anjali collapsed near Hyderabad, unconscious, please send medical help fast",ta,Medical Emergency,Critical,Hyderabad,Anjali
+1051,"House fire in Hyderabad, Divya and family trapped inside, send fire truck neighbours are also affected",es,Fire,Critical,Hyderabad,Divya
+1052,"Building collapsed in Mumbai, 8 people feared trapped under rubble someone call for help",en,Building Collapse,Critical,Mumbai,
+1053,"Aftershocks continuing in Thanjavur since on Monday, residents scared to go inside",es,Earthquake,Low,Thanjavur,
+1054,"earthquake caused wall collapse in mumbai, person named carlos trapped under debris situation getting worse",en,Earthquake,Critical,,
+1055,"Carlos met with a bike accident near Pune, bleeding heavily",ta,Road Accident,Low,Pune,Carlos
+1056,"Severe waterlogging in Hyderabad after continuous rain, help needed for elderly",en,Flood,Medium,Hyderabad,
+1057,"River overflowing near Madurai, roads submerged, need boat rescue urgently",fr,Flood,High,Madurai,
+1058,"River overflowing near Bangalore, roads submerged, need boat rescue urgently someone call for help",hi,Flood,High,Bangalore,
+1059,"Kumar met with a bike accident near Kolkata, bleeding heavily neighbours also affected",en,Road Accident,Low,Kolkata,Kumar
+1060,"Snake bite emergency in Hyderabad, Ravi needs antivenom immediately someone call for help",es,Medical Emergency,High,Hyderabad,Ravi
+1061,"Landslide damaged bridge connecting Madurai, rescue team needed urgently",en,Landslide,High,Madurai,
+1062,"Aftershocks continuing in Delhi since on Monday, residents scared to go inside neighbours are also affected",en,Earthquake,Low,Delhi,
+1063,"David in Hyderabad is having severe chest pain, need ambulance immediately situation getting worse",es,Medical Emergency,High,Hyderabad,David
+1064,"Old structure collapsed near Thanjavur market, rescue operation needed",en,Building Collapse,Critical,Thanjavur,
+1065,"Earthquake caused wall collapse in Kochi, person named Divya trapped under debris situation getting worse",hi,Earthquake,Critical,Kochi,Divya
+1066,"Earthquake caused wall collapse in Chennai, person named Maria trapped under debris",hi,Earthquake,Critical,Chennai,Maria
+1067,"Cyclone damaged roofs in Trichy, power lines down, 8 families affected",en,Cyclone,Medium,Trichy,
+1068,"Flood water entered houses in Kochi, families stuck on rooftops since last night",ta,Flood,Low,Kochi,
+1069,"continuing in Vellore since on Friday, residents scared to go inside please respond fast",ta,Earthquake,Low,Vellore,
+1070,"Wall of building fell in Mumbai, Carlos injured, ambulance required",es,Building Collapse,High,Mumbai,Carlos
+1071,"River overflowing near Kolkata, submerged, need boat rescue urgently please respond fast",es,Flood,High,Kolkata,
+1072,"forest fire spreading near kolkata, please send fire brigade immediately",en,Fire,High,,
+1073,"Old structure collapsed near Nagpur market, rescue operation needed",en,Building Collapse,Critical,Nagpur,
+1074,"Flood water entered houses in Delhi, families stuck on rooftops since last night neighbours are also affected",hi,Flood,Low,Delhi,
+1075,Landslide damaged bridge connecting rescue team needed urgently someone call for help,en,Landslide,High,,
+1076,"Heavy wind and rain in Delhi due to cyclone, evacuation needed urgently",hi,Cyclone,High,Delhi,
+1077,"Meena collapsed near Kolkata, unconscious, please send medical help fast someone call for help",en,Medical Emergency,Critical,Kolkata,Meena
+1078,"Heavy wind and rain in Madurai due to cyclone, evacuation needed urgently please respond fast",fr,Cyclone,High,Madurai,
+1079,"Flood water entered houses in Pune, families stuck on rooftops since today",en,Flood,Low,Pune,
+1080,"Strong earthquake felt in Trichy, buildings shaking, people running outside someone call for help",hi,Earthquake,Low,Trichy,
+1081,"Old structure collapsed near Chennai market, rescue operation needed please respond fast",fr,Building Collapse,Critical,Chennai,
+1082,"Forest fire spreading near Chennai, please send fire brigade immediately",en,Fire,High,Chennai,
+1083,"Earthquake damaged several homes in Trichy, 3 injured, need medical help",ta,Earthquake,High,Trichy,
+1084,"Severe waterlogging in Vellore after continuous rain, help needed for elderly",en,Flood,Medium,Vellore,
+1085,"Forest fire spreading near Salem, please send fire brigade immediately not sure what to do",hi,Fire,High,Salem,
+1086,"Landslide damaged bridge connecting Mumbai, rescue team needed urgently neighbours are also affected",en,Landslide,High,Mumbai,
+1087,"Pierre met with a bike accident near Mumbai, bleeding heavily situation getting worse",ta,Road Accident,Low,Mumbai,Pierre
+1088,"Snake bite emergency in Mumbai, John needs antivenom immediately neighbours are also affected",es,Medical Emergency,High,Mumbai,John
+1089,"Forest fire spreading near Salem, please send fire brigade immediately situation getting worse",en,Fire,High,Salem,
+1090,"Forest fire spreading near Bangalore, please send fire brigade immediately not sure what to do",es,Fire,High,Bangalore,
+1091,"Major road accident near Kolkata, 8 vehicles involved, people injured not what to do",en,Road Accident,High,Kolkata,
+1092,"Arjun in Bangalore is having severe chest pain, need ambulance immediately situation getting worse",en,Medical Emergency,High,Bangalore,Arjun
+1093,"Earthquake damaged several homes in Delhi, 8 injured, need medical help",hi,Earthquake,High,Delhi,
+1094,"Heavy wind and rain in Kochi due to cyclone, evacuation needed urgently",fr,Cyclone,High,Kochi,
+1095,"Earthquake caused wall collapse in Delhi, person named Pierre trapped under debris someone call for help",hi,Earthquake,Critical,Delhi,Pierre
+1096,"Old collapsed near Bangalore market, rescue operation needed",es,Building Collapse,Critical,Bangalore,
+1097,"Snake bite emergency in Pune, Meena needs antivenom immediately",fr,Medical Emergency,High,Pune,Meena
+1098,"Continuous rain triggered landslide in Kochi, Suresh missing since yesterday",es,Landslide,Critical,Kochi,Suresh
+1099,"River overflowing near Chennai, roads submerged, need boat rescue urgently",en,Flood,High,Chennai,
+1100,"Strong earthquake felt in Salem, buildings shaking, people running outside",es,Earthquake,Low,Salem,
+1101,"Suresh met with a bike accident near Trichy, bleeding heavily please respond fast",es,Road Accident,Low,Trichy,Suresh
+1102,"Major road accident near Kolkata, vehicles involved, people injured",en,Road Accident,High,Kolkata,
+1103,"Snake bite emergency in Hyderabad, Fatima needs antivenom immediately situation getting worse",en,Medical Emergency,High,Hyderabad,Fatima
+1104,"Flood water entered houses in Salem, families stuck on rooftops since 30 minutes ago neighbours are also affected",en,Flood,Low,Salem,
+1105,"Landslide hit hillside village near Thanjavur, 5 houses buried under mud someone call for help",fr,Landslide,Critical,Thanjavur,
+1106,"Severe waterlogging in Vellore after continuous rain, help needed for elderly",hi,Flood,Medium,Vellore,
+1107,"Strong earthquake felt in Delhi, buildings shaking, people running outside please respond fast",fr,Earthquake,Low,Delhi,
+1108,"Bus accident on Madurai highway, several passengers trapped, need rescue",en,Road Accident,Critical,Madurai,
+1109,"Truck overturned near Vellore, driver Fatima trapped in cabin not sure what to do",en,Road Accident,Critical,Vellore,Fatima
+1110,"Earthquake caused wall collapse in Thanjavur, person Ravi trapped under debris neighbours are also affected",en,Earthquake,Medium,Thanjavur,Ravi
+1111,"Building collapsed in Chennai, 5 people feared trapped under rubble",ta,Building Collapse,Critical,Chennai,
+1112,"House fire in Bangalore, Meena and family trapped inside, send fire truck",es,Fire,Critical,Bangalore,Meena
+1113,"Pierre in is having severe chest pain, need ambulance immediately",ta,Medical Emergency,High,,Pierre
+1114,"house fire in mumbai, fatima and family trapped inside, send fire truck please respond fast",ta,Fire,Critical,,
+1115,"Truck overturned near Delhi, driver Sophie trapped in cabin",ta,Road Accident,Critical,Delhi,Sophie
+1116,"Earthquake caused wall collapse in Trichy, person named Suresh trapped under debris someone call for help",es,Earthquake,Critical,Trichy,Suresh
+1117,"Maria met with a bike accident near Thanjavur, bleeding heavily not sure what to do",fr,Road Accident,Low,Thanjavur,Maria
+1118,"Landslide hit hillside village near Bangalore, 10 houses buried under mud",es,Landslide,Critical,Bangalore,
+1119,"Massive fire broke out in Delhi market, thick smoke, 2 shops affected",en,Fire,High,Delhi,
+1120,"Truck overturned near Madurai, driver Carlos trapped in cabin please respond fast",en,Road Accident,Critical,Madurai,Carlos
+1121,"Forest fire spreading near Bangalore, please send fire brigade immediately please respond fast",en,Fire,High,Bangalore,
+1122,"Snake bite emergency in Hyderabad, Elena needs antivenom immediately please respond fast",hi,Medical Emergency,High,Hyderabad,Elena
+1123,"Landslide hit hillside village near Vellore, 8 houses buried under mud",fr,Landslide,Critical,Vellore,
+1124,"Fire in apartment building Vellore, smoke everywhere, need evacuation help",es,Fire,High,Vellore,
+1125,"River overflowing near Salem, roads submerged, need boat rescue urgently neighbours are also affected",es,Flood,High,Salem,
+1126,"Cyclone damaged roofs in Salem, power lines down, 10 families affected",fr,Cyclone,Medium,Salem,
+1127,"Truck overturned near Trichy, driver Suresh trapped in",es,Road Accident,Critical,Trichy,Suresh
+1128,"Strong earthquake felt in Nagpur, buildings shaking, people running outside",fr,Earthquake,Low,Nagpur,
+1129,"Cyclone warning issued for Nagpur, coastal residents need shelter immediately situation getting worse",fr,Cyclone,High,Nagpur,
+1130,"Fire in apartment building Mumbai, smoke everywhere, need evacuation help someone call for help",ta,Fire,Low,Mumbai,
+1131,"Earthquake caused wall collapse in Madurai, person named Sophie trapped under debris",es,Earthquake,Critical,Madurai,Sophie
+1132,"Landslide blocked the main road near Kolkata, several vehicles stuck",es,Landslide,Low,Kolkata,
+1133,"Landslide hit hillside village near Salem, 3 houses buried under mud situation getting worse",fr,Landslide,Critical,Salem,
+1134,"Major road accident near Hyderabad, 3 vehicles involved, people injured not sure what to do",en,Road Accident,High,Hyderabad,
+1135,"Lakshmi in Chennai is having severe chest pain, need ambulance immediately",fr,Medical Emergency,High,Chennai,Lakshmi
+1136,"Wall of building fell in Kochi, Priya injured, ambulance required please respond fast",ta,Building Collapse,High,Kochi,Priya
+1137,"Truck overturned near Pune, driver Fatima trapped in cabin",es,Road Accident,Critical,Pune,Fatima
+1138,"Major road accident near Madurai, 4 vehicles involved, people injured please respond fast",es,Road Accident,Critical,Madurai,
+1139,"continuous rain triggered landslide in vellore, fatima missing since last night not sure what to do",fr,Landslide,Critical,,
+1140,"Landslide hit hillside village near Madurai, 8 houses buried under mud someone call for help",hi,Landslide,Critical,Madurai,
+1141,"Heavy wind and rain in Vellore due to cyclone, evacuation needed urgently",ta,Cyclone,High,Vellore,
+1142,"Landslide damaged bridge connecting Bangalore, rescue team needed urgently someone call for help",hi,Landslide,High,Bangalore,
+1143,"Landslide hit hillside village near Kolkata, 3 houses buried under mud please respond fast",es,Landslide,Critical,Kolkata,
+1144,Forest fire spreading near please send fire brigade immediately,en,Fire,High,,
+1145,"Cyclone warning issued Vellore, coastal residents need shelter immediately not sure what to do",en,Cyclone,High,Vellore,
+1146,"cyclone warning issued for hyderabad, coastal residents need shelter immediately not sure what to do",es,Cyclone,High,,
+1147,"Bus accident on Kolkata highway, several passengers trapped, need rescue",es,Road Accident,Critical,Kolkata,
+1148,"Landslide damaged bridge connecting Bangalore, rescue team needed urgently neighbours are affected",fr,Landslide,High,Bangalore,
+1149,"Cyclone damaged roofs in Mumbai, power lines down, 12 families affected please respond fast",hi,Cyclone,Medium,Mumbai,
+1150,"cyclone warning issued for coimbatore, coastal residents need shelter immediately",en,Cyclone,High,,
+1151,"building collapsed in thanjavur, 8 people feared trapped under rubble please respond fast",hi,Building Collapse,Critical,,
+1152,"Severe waterlogging in Kolkata after continuous rain, help needed for elderly",en,Flood,Medium,Kolkata,
+1153,"Bus accident on Nagpur highway, several passengers trapped, need rescue neighbours are also affected",en,Road Accident,Critical,Nagpur,
+1154,"Bus accident on Pune highway, several passengers need rescue someone call for help",en,Road Accident,Critical,Pune,
+1155,"Truck overturned near Nagpur, driver Arjun trapped in cabin someone call for help",en,Road Accident,Critical,Nagpur,Arjun
+1156,"Meena met with a bike accident near Trichy, bleeding heavily",en,Road Accident,Low,Trichy,Meena
+1157,"building collapsed in salem, 6 people feared trapped under rubble",en,Building Collapse,Low,,
+1158,"Kumar met with a bike accident near Chennai, bleeding heavily situation getting worse",fr,Road Accident,Low,Chennai,Kumar
+1159,"Earthquake damaged several homes in Kochi, 8 injured, need medical help someone call for help",hi,Earthquake,High,Kochi,
+1160,"Aftershocks continuing in Thanjavur since 30 minutes ago, residents scared to go inside someone call for help",en,Earthquake,Low,Thanjavur,
+1161,"Forest fire spreading near Trichy, please send fire brigade immediately please respond fast",es,Fire,High,Trichy,
+1162,"cyclone warning issued for chennai, coastal residents need shelter immediately please respond fast",fr,Cyclone,High,,
+1163,"Bus accident on Coimbatore highway, several passengers trapped, need rescue situation getting worse",ta,Road Accident,Critical,Coimbatore,
+1164,"Building collapsed in Trichy, 3 people feared trapped under rubble",es,Building Collapse,Critical,Trichy,
+1165,"Heavy flooding in Madurai, water level rising fast, 3 people trapped neighbours are also affected",en,Flood,Critical,Madurai,
+1166,"heavy wind and rain in salem due to cyclone, evacuation needed urgently neighbours are also affected",ta,Cyclone,High,,
+1167,"House fire in Pune, Kumar and family trapped inside, send fire truck",en,Fire,Critical,Pune,Kumar
+1168,"Aftershocks continuing in Chennai since this morning, residents scared to go inside",en,Earthquake,Low,Chennai,
+1169,"House fire in Kochi, Divya and family trapped inside, send fire truck situation getting worse",ta,Fire,Critical,Kochi,Divya
+1170,"Severe waterlogging in Vellore after continuous rain, help needed for elderly situation getting worse",hi,Flood,Medium,Vellore,
+1171,"Major road accident near Pune, 12 vehicles involved, people injured please respond fast",ta,Road Accident,High,Pune,
+1172,"Forest fire spreading near Delhi, please send fire brigade immediately not sure what to do",en,Fire,High,Delhi,
+1173,"Cyclone approaching Salem coast, strong winds, trees falling since this morning",es,Cyclone,Low,Salem,
+1174,"Massive fire broke out in Nagpur market, thick smoke, 3 shops affected neighbours are also affected",en,Fire,High,Nagpur,
+1175,"Cyclone damaged roofs in Pune, power lines down, 8 families affected someone call for help",en,Cyclone,Medium,Pune,
+1176,"Cyclone approaching Kolkata coast, strong winds, trees falling since 2 hours ago please respond fast",es,Cyclone,Low,Kolkata,
+1177,"severe waterlogging in mumbai after rain, help needed for elderly someone call for help",ta,Flood,Medium,,
+1178,"Flood water entered houses in Pune, families stuck on rooftops since today someone call for help",hi,Flood,Low,Pune,
+1179,"Major road accident near Vellore, 5 vehicles involved, people injured",hi,Road Accident,High,Vellore,
+1180,"Landslide damaged bridge connecting Trichy, rescue team needed urgently neighbours are also affected",fr,Landslide,High,Trichy,
+1181,"Under-construction building collapsed in Madurai, workers trapped since this morning",en,Building Collapse,Critical,Madurai,
+1182,"Landslide hit hillside village near Chennai, 12 houses buried under",ta,Landslide,Critical,Chennai,
+1183,"Truck overturned near Pune, driver Rahul trapped in cabin",es,Road Accident,Critical,Pune,Rahul
+1184,"Cyclone damaged roofs in Madurai, power lines down, 5 families affected",hi,Cyclone,Medium,Madurai,
+1185,"Cyclone warning issued for Delhi, coastal residents need shelter immediately not sure what to do",ta,Cyclone,High,Delhi,
+1186,"cyclone damaged roofs in bangalore, power lines down, 4 families affected someone call for help",hi,Cyclone,Medium,,
+1187,"Forest fire spreading near Pune, please send fire brigade immediately someone call for help",en,Fire,High,Pune,
+1188,"building collapsed in Kochi, workers trapped since yesterday please respond fast",fr,Building Collapse,Critical,Kochi,
+1189,Pregnant woman in Pune needs urgent hospital transport right now please respond fast,es,Medical Emergency,High,Pune,
+1190,"Under-construction building collapsed in Pune, workers trapped since 2 hours ago please respond fast",en,Building Collapse,Critical,Pune,
+1191,"Earthquake caused wall collapse in Delhi, person named Carlos trapped under debris please respond fast",es,Earthquake,Critical,Delhi,Carlos
+1192,"Fire in apartment building Trichy, smoke everywhere, need evacuation help",ta,Fire,High,Trichy,
+1193,"Fire in apartment building Thanjavur, smoke everywhere, need evacuation help neighbours are also affected",en,Fire,High,Thanjavur,
+1194,"Landslide damaged bridge connecting Thanjavur, rescue team needed urgently neighbours are also affected",en,Landslide,High,Thanjavur,
+1195,"Building collapsed in Kochi, 10 people feared trapped under rubble not sure what to do",fr,Building Collapse,Critical,Kochi,
+1196,"Under-construction building collapsed in Thanjavur, workers trapped since last night not sure what to do",en,Building Collapse,Critical,Thanjavur,
+1197,"Building collapsed in Bangalore, 2 people feared trapped under rubble",ta,Building Collapse,Critical,Bangalore,
+1198,"Landslide damaged bridge connecting Bangalore, rescue team needed urgently",en,Landslide,High,Bangalore,
+1199,"Cyclone warning issued for Coimbatore, coastal residents need shelter immediately please respond fast",fr,Cyclone,High,Coimbatore,
+1200,"Flood water entered houses in Nagpur, families stuck on rooftops since yesterday someone call for help",es,Flood,Low,Nagpur,
